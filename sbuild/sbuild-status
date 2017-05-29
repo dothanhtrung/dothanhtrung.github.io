@@ -85,7 +85,7 @@ apmd 3.2.2-15 attempted 2017-05-13T11:34:59Z
 appmenu-qt 0.2.6-2 successful 2017-05-13T11:37:04Z
 apt-build 0.12.47 successful 2017-05-13T11:38:27Z
 apt-cacher-ng 3-5 successful 2017-05-13T11:40:10Z
-apt-dater 1.0.3-3 given-back 2017-05-24T11:21:23Z
+apt-dater 1.0.3-4 given-back 2017-05-27T09:00:02Z
 apt-move 4.2.27-5 successful 2017-05-13T11:41:26Z
 aptsh 0.0.8 attempted 2017-05-13T11:42:04Z
 apt-spy 3.2.2-1 attempted 2017-05-13T11:42:52Z
@@ -1558,7 +1558,7 @@ libxxf86dga 1.1.4-1 attempted 2017-05-15T14:59:16Z
 libxxf86vm 1.1.4-1 attempted 2017-05-15T15:00:12Z
 libyaml 0.1.7-2 successful 2017-05-15T15:01:05Z
 libykneomgr 0.1.8-2 attempted 2017-05-15T15:02:09Z
-libytnef 1.9.2-1 successful 2017-05-15T15:03:09Z
+libytnef 1.9.2-2 successful 2017-05-27T09:02:20Z
 libyubikey 1.13-2 successful 2017-05-15T15:03:43Z
 libzen 0.4.34-1 attempted 2017-05-15T15:04:23Z
 libzip 1.1.2-1.1 successful 2017-05-15T15:05:18Z
@@ -1691,7 +1691,7 @@ menu 2.1.47 attempted 2017-05-15T18:58:40Z
 meritous 1.4-1 attempted 2017-05-15T19:00:56Z
 mesa-demos 8.3.0-3 successful 2017-05-15T19:04:06Z
 metacam 1.2-9 successful 2017-05-15T19:05:15Z
-meta-gnome3 3.22+2 successful 2017-05-15T19:05:38Z
+meta-gnome3 3.22+3 successful 2017-05-27T09:03:29Z
 meta-kde 92 successful 2017-05-15T19:05:59Z
 metapixel 1.0.2-7.4 attempted 2017-05-15T19:06:30Z
 metar 20061030.1-2.2 successful 2017-05-15T19:07:23Z
@@ -1955,7 +1955,7 @@ opensc 0.16.0-3 successful 2017-05-16T02:26:03Z
 openslide 3.4.1+dfsg-2 successful 2017-05-16T02:29:10Z
 opensm 3.3.20-1 successful 2017-05-16T02:32:34Z
 openssh 7.4p1-10 successful 2017-05-16T02:39:18Z
-openssl 1.1.0e-2 successful 2017-05-16T02:44:05Z
+openssl 1.1.0f-1 successful 2017-05-27T09:06:04Z
 openssn 1.4-1 attempted 2017-05-16T02:47:10Z
 openuniverse 1.0beta3.1+dfsg-6 attempted 2017-05-16T02:51:57Z
 open-vm-tools 10.1.5-5055683-4 skipped 2017-05-16T02:53:05Z
@@ -2112,7 +2112,7 @@ praat 6.0.23-1 attempted 2017-05-16T09:22:25Z
 prank 0.0.150803-2 attempted 2017-05-16T09:24:50Z
 prboom-plus 2.5.1.5~svn4462+dfsg1-1 attempted 2017-05-24T10:28:56Z
 predict 2.2.3-4 attempted 2017-05-16T09:27:49Z
-prelink 0.0.20130503-1.1 attempted 2017-05-16T09:30:12Z
+prelink 0.0.20131005-1 successful 2017-05-27T09:07:44Z
 preload 0.6.4-2 successful 2017-05-16T09:31:13Z
 prerex 6.5.3-1 attempted 2017-05-16T09:33:20Z
 primer3 2.3.7-3 successful 2017-05-16T09:34:40Z
@@ -2298,7 +2298,7 @@ sa-exim 4.2.1-16 attempted 2017-05-16T16:33:23Z
 safecopy 1.7-2 successful 2017-05-16T16:33:53Z
 sailcut 1.3.6-1 attempted 2017-05-16T16:38:03Z
 samhain 4.1.4-2 attempted 2017-05-16T16:41:30Z
-sane-backends 1.0.25-4 attempted 2017-05-16T16:45:15Z
+sane-backends 1.0.25-4.1 attempted 2017-05-27T09:13:08Z
 sane-backends-extras 1.0.22.4 successful 2017-05-16T16:47:48Z
 sane-frontends 1.0.14-12 successful 2017-05-16T16:50:56Z
 sarg 2.3.10-2 attempted 2017-05-16T16:53:56Z
@@ -2516,7 +2516,7 @@ symlinks 1.4-3 successful 2017-05-17T00:45:01Z
 synthv1 0.8.0-1 attempted 2017-05-17T00:47:34Z
 sysbench 0.4.12-1.2 successful 2017-05-17T00:50:12Z
 sysfsutils 2.1.0+repack-4 successful 2017-05-17T00:51:07Z
-sysstat 11.4.3-1 successful 2017-05-17T00:51:46Z
+sysstat 11.4.3-2 successful 2017-05-27T09:16:07Z
 systemd 232-23 given-back 2017-05-24T12:40:49Z
 systemd-shim 10-3 successful 2017-05-17T00:53:05Z
 sysvbanner 1.0.15 successful 2017-05-17T00:53:49Z
@@ -2945,7 +2945,7 @@ xplot-xplot.org 0.90.7.1-3 successful 2017-05-17T16:05:13Z
 xpp 1.5-cvs20081009-3 successful 2017-05-17T16:07:59Z
 xprintidle 0.2-10 successful 2017-05-17T16:10:31Z
 xrdp 0.9.1-9 attempted 2017-05-17T16:14:12Z
-xrestop 0.4-10 successful 2017-05-17T16:16:25Z
+xrestop 0.4+git20130926-1 successful 2017-05-27T09:17:44Z
 xsane 0.999-5 attempted 2017-05-17T16:19:49Z
 xscavenger 1.4.5-4 attempted 2017-05-17T16:22:16Z
 xscorch 0.2.1-1+nmu1 successful 2017-05-17T16:25:26Z
