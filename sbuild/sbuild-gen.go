@@ -30,6 +30,7 @@ func main() {
 	html += "<script src=\"../js/default.js\"></script>\n"
 	html += "<link rel=\"stylesheet\" type=\"text/css\" id=\"table_row_counter\" href=\"../css/table_row_counter.css\"/>\n"
 	html += "</head><body>\n"
+	html += "<h1>Debian cross-build state</h1>\n"
 	html += "Build Architecture: amd64<br/>Host Architecture: armhf<br/>##Summary##<br/>\n"
 	html += "<br/><input type=\"checkbox\"/ onclick=\"tableRemoveCounter(this);\"> Disable row counter. This helps table sort faster. (Re-enabling will take time)\n"
 	html += "<br/><table class=\"sortable\" id=\"sortable\">\n"
