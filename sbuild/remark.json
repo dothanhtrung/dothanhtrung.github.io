@@ -1,9 +1,10 @@
 {
   "bash": "Failed to install dependency but cross-build success with dpkg-buildpackage",
-  "libxinerama": "Bug <a href=\"https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=861073\">#861073</td>",
-  "usb-modeswitch": "Bug <a href=\"https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=836018\">#836018</td>",
-  "vlan": "Bug <a href=\"https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=794156\">#794156</a>",
-  "vsftpd": "Bug <a href=\"https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=850471\">#850471</a>",
-  "zip": "Bug <a href=\"https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=836792\">#836792</a>"
+  "flex": "Bug <a href=\"https://bugs.debian.org/833146\">#833146</a>",
+  "libxinerama": "Bug <a href=\"https://bugs.debian.org/861073\">#861073</td>",
+  "usb-modeswitch": "Bug <a href=\"https://bugs.debian.org/836018\">#836018</td>",
+  "vlan": "Bug <a href=\"https://bugs.debian.org/794156\">#794156</a>",
+  "vsftpd": "Bug <a href=\"https://bugs.debian.org/850471\">#850471</a>",
+  "zip": "Bug <a href=\"https://bugs.debian.org/836792\">#836792</a>"
 }
 
