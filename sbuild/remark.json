@@ -1,6 +1,7 @@
 {
   "autogen": "Need build with profile \"cross\"",
   "bash": "Need build with profile \"nocheck\"",
+  "busybox": "Bug <a href=\"https://bugs.debian.org/794526\">#794526</a>",
   "flex": "Bug <a href=\"https://bugs.debian.org/833146\">#833146</a>",
   "guile-2.0": "Need build with profile \"cross\"",
   "liblocale-gettext-perl": "Need build with profile \"cross\"",
@@ -13,6 +14,8 @@
   "vlan": "Bug <a href=\"https://bugs.debian.org/794156\">#794156</a>",
   "vpnc": "Need build with profile \"cross\"",
   "vsftpd": "Bug <a href=\"https://bugs.debian.org/850471\">#850471</a>",
+  "wayland": "Bug <a href=\"https://bugs.debian.org/836687\">#836687</a>",
+  "xfsprogs": "Bug <a href=\"https://bugs.debian.org/794158\">#794158</a>",
   "zip": "Bug <a href=\"https://bugs.debian.org/836792\">#836792</a>"
 }
 

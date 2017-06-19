@@ -10,7 +10,7 @@ abe 1.1+dfsg-2 successful 2017-05-13T09:14:14Z
 abook 0.6.1-1 successful 2017-05-13T09:16:41Z
 abootimg 0.6-1 successful 2017-05-13T09:17:21Z
 abr2gbr 1.0.2-2 attempted 2017-06-05T07:23:47Z
-acct 6.6.2-1 successful 2017-05-13T09:19:39Z
+acct 6.6.3-1 successful 2017-06-17T09:01:34Z
 acedb 4.9.39+dfsg.02-1 attempted 2017-06-05T07:28:23Z
 ace-of-penguins 1.5~rc2-1 attempted 2017-06-05T07:31:43Z
 acetoneiso 2.4-2 attempted 2017-06-05T07:34:54Z
@@ -181,7 +181,7 @@ binfmt-support 2.1.6-2 successful 2017-05-13T15:04:04Z
 bing 1.1.3-3 successful 2017-05-13T15:04:36Z
 biniax2 1.30-2 successful 2017-05-13T15:06:46Z
 bino 1.6.5-1 attempted 2017-06-05T11:33:00Z
-binutils 2.28-5 successful 2017-05-13T15:18:34Z
+binutils 2.28-6 successful 2017-06-17T09:05:15Z
 biosquid 1.9g+cvs20050121-7 successful 2017-05-13T15:19:39Z
 bird 1.6.3-3 given-back 2017-06-09T02:24:30Z
 bison 3.0.4.dfsg-1 successful 2017-05-13T15:21:10Z
@@ -198,7 +198,7 @@ blobwars 2.00-1 attempted 2017-06-05T11:53:08Z
 blockout2 2.4+dfsg1-7 attempted 2017-06-05T11:57:47Z
 blop 0.2.8-6 attempted 2017-06-05T12:00:18Z
 blt 2.5.3+dfsg-3 successful 2017-05-13T15:49:13Z
-bluemon 1.4-6.1 attempted 2017-06-05T12:01:41Z
+bluemon 1.4-7 given-back 2017-06-17T09:05:41Z
 bluez 5.43-2 successful 2017-05-13T15:54:39Z
 bluez-qt 5.28.0-1 attempted 2017-06-05T12:06:59Z
 bluez-tools 0.2.0~20140808-5 successful 2017-05-13T16:01:07Z
@@ -282,7 +282,7 @@ cd-discid 1.4-1 successful 2017-05-13T18:26:02Z
 cdebconf 0.227 successful 2017-05-13T18:29:17Z
 cdebootstrap 0.7.7 attempted 2017-06-05T13:48:19Z
 cdecl 2.5-13 successful 2017-05-13T18:33:01Z
-cd-hit 4.6.6-2 attempted 2017-06-05T13:49:50Z
+cd-hit 4.6.7-1 attempted 2017-06-17T09:06:55Z
 cdparanoia 3.10.2+debian-11 successful 2017-05-13T18:34:07Z
 cdpr 2.4-1 attempted 2017-06-05T13:51:00Z
 cdrkit 1.1.11-3 attempted 2017-06-05T13:52:57Z
@@ -302,7 +302,7 @@ check-mk 1.2.8p16-1 attempted 2017-06-05T14:04:32Z
 checkpolicy 2.6-2 successful 2017-05-13T18:57:17Z
 chemeq 2.12-2 successful 2017-05-13T18:57:53Z
 chemtool 1.6.14-1 attempted 2017-06-05T14:08:28Z
-chessx 1.4.0-1 attempted 2017-06-05T14:13:31Z
+chessx 1.4.4-1 attempted 2017-06-17T09:09:46Z
 chicken 4.11.0-1 attempted 2017-06-05T14:16:55Z
 chkrootkit 0.50-4 successful 2017-05-13T19:08:13Z
 chmlib 0.40a-3 successful 2017-05-13T19:08:53Z
@@ -519,7 +519,7 @@ dreamchess 0.2.1-RC2-2 successful 2017-05-14T01:16:39Z
 dropbear 2016.74-5 successful 2017-05-20T09:02:14Z
 drumkv1 0.8.0-2 attempted 2017-06-05T19:26:00Z
 dsh 0.25.10-1.3 attempted 2017-06-05T19:28:57Z
-dsniff 2.4b1+debian-25 successful 2017-05-14T01:25:56Z
+dsniff 2.4b1+debian-26 successful 2017-06-17T09:12:33Z
 dssi 1.1.1~dfsg0-1 attempted 2017-06-05T19:31:42Z
 dtach 0.9-2 successful 2017-05-14T01:29:59Z
 duff 0.5.2-1.1 successful 2017-05-14T01:30:35Z
@@ -744,7 +744,7 @@ gadmin-samba 0.2.9-3 successful 2017-05-14T09:00:56Z
 galib 2.4.7-4 successful 2017-05-14T09:03:20Z
 game-music-emu 0.6.1-1 successful 2017-05-14T09:04:15Z
 gamgi 0.17.1-1 attempted 2017-06-06T01:05:00Z
-gamine 1.5-1 attempted 2017-06-06T01:12:04Z
+gamine 1.5-2 attempted 2017-06-17T09:16:47Z
 ganglia-modules-linux 1.3.6-2 successful 2017-05-14T09:16:19Z
 garden-of-coloured-lights 1.0.9-1 successful 2017-05-14T09:17:37Z
 gargoyle-free 2011.1b-1 attempted 2017-06-06T01:19:18Z
@@ -754,7 +754,7 @@ gaviotatb 0.4-2 attempted 2017-06-06T01:24:25Z
 gavl 1.4.0-4 attempted 2017-06-06T01:25:40Z
 gcal 3.6.3-3 attempted 2017-06-06T01:28:20Z
 gcc-defaults 1.168 successful 2017-05-14T09:29:42Z
-gcl 2.6.12-49 attempted 2017-06-10T09:07:20Z
+gcl 2.6.12-52 attempted 2017-06-17T09:20:23Z
 gconfmm2.6 2.28.3-1 successful 2017-05-14T09:33:51Z
 gcx 1.3-1.1 attempted 2017-06-06T01:34:54Z
 gdbm 1.8.3-14 attempted 2017-06-06T01:37:57Z
@@ -786,7 +786,7 @@ giflib 5.1.4-0.4 successful 2017-05-14T10:48:32Z
 gifsicle 1.88-3 successful 2017-05-14T10:49:36Z
 gifticlib 1.0.9-1 successful 2017-05-14T10:50:31Z
 gigolo 0.4.2-1 successful 2017-05-14T10:53:30Z
-gimagereader 3.2.0-1 attempted 2017-06-06T02:43:06Z
+gimagereader 3.2.1-1 attempted 2017-06-17T09:26:06Z
 gimp-dcraw 1.32-1 attempted 2017-06-06T03:04:14Z
 gimp-dds 3.0.1-1 attempted 2017-06-06T03:21:06Z
 gimplensfun 0.2.4-1 attempted 2017-06-06T03:27:32Z
@@ -848,10 +848,10 @@ gnugo 3.8-9 attempted 2017-06-06T06:01:32Z
 gnuit 4.9.5-3 attempted 2017-06-06T06:03:09Z
 gnujump 1.0.8-3 attempted 2017-06-06T06:06:31Z
 gnupg2 2.1.18-8 successful 2017-05-14T15:22:10Z
-gnuplot 5.0.5+dfsg1-6 given-back 2017-06-09T02:40:14Z
+gnuplot 5.0.5+dfsg1-7 given-back 2017-06-17T09:29:32Z
 gnushogi 1.4.2-3 attempted 2017-06-06T06:09:45Z
 gnu-smalltalk 3.2.5-1 attempted 2017-06-06T06:16:06Z
-gnutls28 3.5.8-5 successful 2017-05-14T15:36:30Z
+gnutls28 3.5.8-6 successful 2017-06-17T09:33:01Z
 goaccess 0.9.4-1 successful 2017-05-14T15:37:59Z
 gocr 0.49-2 successful 2017-05-14T15:39:03Z
 goldendict 1.5.0~git20160508.g92b5485-1.1 attempted 2017-06-06T06:22:34Z
@@ -1041,7 +1041,7 @@ invada-studio-plugins-lv2 1.2.0+repack0-7 attempted 2017-06-06T12:00:08Z
 inventor 2.1.5-10-19 attempted 2017-06-06T12:05:01Z
 iodine 0.7.0-7 attempted 2017-06-06T12:07:26Z
 ioping 1.0-2 successful 2017-05-14T23:36:54Z
-ioquake3 1.36+u20161101+dfsg1-2 attempted 2017-06-06T12:11:04Z
+ioquake3 1.36+u20170611+dfsg1-1 attempted 2017-06-17T09:36:00Z
 iperf 2.0.9+dfsg1-1 successful 2017-05-14T23:41:56Z
 iperf3 3.1.3-1 successful 2017-05-14T23:42:42Z
 ipheth 1.0-3 attempted 2017-06-06T12:14:47Z
@@ -1795,7 +1795,7 @@ mtx 1.3.12-10 successful 2017-05-15T21:49:51Z
 mudita24 1.0.3+svn13-6 successful 2017-05-15T21:52:44Z
 multimon 1.0-7.1 attempted 2017-06-07T04:26:43Z
 multipath-tools 0.6.4-5 attempted 2017-06-07T04:28:10Z
-multitail 6.4.2-1 attempted 2017-06-07T04:29:07Z
+multitail 6.4.2-3 successful 2017-06-17T09:38:19Z
 mummer 3.23+dfsg-2 attempted 2017-06-07T04:31:04Z
 muparser 2.2.3-6 successful 2017-05-15T22:00:46Z
 mupdf 1.9a+ds1-4 attempted 2017-06-07T04:33:03Z
@@ -1897,8 +1897,8 @@ notification-daemon 3.20.0-1 successful 2017-05-16T00:33:37Z
 npth 1.3-1 successful 2017-05-16T00:36:32Z
 nrg2iso 0.4-4 attempted 2017-06-07T05:53:43Z
 nsca 2.9.2-1 successful 2017-05-16T00:37:26Z
-nspr 4.12-6 successful 2017-05-16T00:38:06Z
-nss 3.26.2-1.1 successful 2017-06-10T09:20:54Z
+nspr 4.15-1 successful 2017-06-17T09:39:00Z
+nss 3.31-1 successful 2017-06-17T09:44:24Z
 nss-mdns 0.10-8 successful 2017-05-16T00:43:19Z
 nss-updatedb 10-3 successful 2017-05-16T00:43:45Z
 nted 1.10.18-11 attempted 2017-06-07T06:01:55Z
@@ -2133,7 +2133,7 @@ ps2eps 1.68+binaryfree-2 successful 2017-05-16T09:55:16Z
 psad 2.4.3-1 attempted 2017-06-07T09:37:30Z
 psi 0.15-4 attempted 2017-06-07T09:39:41Z
 psignifit 2.5.6-3.1 attempted 2017-06-07T09:41:20Z
-psmisc 22.21-2.1 successful 2017-05-16T10:00:04Z
+psmisc 23.1-1 successful 2017-06-17T09:45:09Z
 pstotext 1.9-6 attempted 2017-06-07T09:41:39Z
 psutils 1.17.dfsg-4 successful 2017-05-16T10:00:58Z
 pth 2.0.7-20 successful 2017-05-16T10:01:51Z
@@ -2218,7 +2218,7 @@ qwt 6.1.2-6 attempted 2017-06-07T13:19:38Z
 qwtplot3d 0.2.7+svn191-10.1 attempted 2017-06-07T13:25:06Z
 racket 6.7-3 attempted 2017-06-07T13:29:55Z
 radeontool 1.6.3-1 successful 2017-05-16T14:10:41Z
-radeontop 0.9-1 attempted 2017-06-07T13:32:01Z
+radeontop 1.0-1 attempted 2017-06-17T09:45:53Z
 radvd 2.16-1 successful 2017-05-16T14:12:07Z
 rakarrack 0.6.1-4 attempted 2017-06-07T13:33:28Z
 raptor2 2.0.14-1 successful 2017-05-16T14:16:02Z
@@ -2364,7 +2364,7 @@ signon-ui 0.17+15.10.20150810-2 attempted 2017-06-07T17:06:42Z
 sigrok-cli 0.5.0-1 given-back 2017-06-09T02:55:12Z
 sigscheme 0.8.5-5 successful 2017-05-16T19:19:10Z
 silly 0.1.0-8 attempted 2017-06-07T17:10:45Z
-silversearcher-ag 1.0.2-2 successful 2017-05-16T19:21:38Z
+silversearcher-ag 2.0.0-1 successful 2017-06-17T09:46:46Z
 sim4 0.0.20121010-4 successful 2017-05-16T19:22:08Z
 simage 1.7.1~2c958a6.dfsg-4 successful 2017-05-16T19:22:54Z
 simpleburn 1.8.0-1 successful 2017-05-16T19:26:40Z
@@ -2776,7 +2776,7 @@ weplab 0.1.5-4 successful 2017-05-17T09:11:36Z
 weston 1.12.0-3 successful 2017-05-17T09:15:21Z
 wget 1.19.1-3 successful 2017-05-17T09:20:20Z
 whitedune 0.30.10-2.1 attempted 2017-06-08T00:31:54Z
-whois 5.2.15 successful 2017-05-17T09:25:16Z
+whois 5.2.16 successful 2017-06-17T09:47:17Z
 whowatch 1.8.5-1 attempted 2017-06-08T00:33:29Z
 wide-dhcpv6 20080615-19 attempted 2017-06-08T00:34:00Z
 wildmidi 0.4.0-2 attempted 2017-06-08T00:34:48Z
