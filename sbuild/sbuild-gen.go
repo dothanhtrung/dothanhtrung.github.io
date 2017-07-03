@@ -14,7 +14,7 @@
  You should have received a copy of the GNU General Public License
  along with this program.  If not, see
  <http://www.gnu.org/licenses/>.
- */
+*/
 
 package main
 
@@ -53,12 +53,12 @@ func main() {
 	html += "<br/><input type=\"checkbox\"/ onclick=\"tableRemoveCounter(this);\"> Disable row counter. This helps table sort faster. (Re-enabling will take time)\n"
 	html += "<br/><table class=\"sortable\" id=\"sortable\">\n"
 	html += "<tr bgcolor=\"#bdc3c7\">" +
-	        "<th class=\"sorttable_nosort\"></th>" +
-	        "<th>Source Name</th>" +
-	        "<th class=\"sorttable_nosort\">Version</th>" +
-	        "<th width=\"80\">Status</th>" +
-	        "<th width=\"150\">Build At</th>" +
-	        "<th>Remark</th></tr>\n"
+		"<th class=\"sorttable_nosort\"></th>" +
+		"<th>Source Name</th>" +
+		"<th class=\"sorttable_nosort\">Version</th>" +
+		"<th width=\"80\">Status</th>" +
+		"<th width=\"150\">Build At</th>" +
+		"<th>Remark</th></tr>\n"
 
 	successCount := 0
 
@@ -68,7 +68,8 @@ func main() {
 		version := pkgInfo[1]
 		status := pkgInfo[2]
 		t, _ := time.Parse(time.RFC3339, pkgInfo[3])
-		timestmp := t.Format("Jan _2, 2006 1:04PM")
+		timestmp := t.Format("Jan _2, 2006 3:04PM")
+		customTimestmp := t.Format("20060102150405")
 
 		bgcolor := "#df2029"
 		if status == "attempted" {
@@ -87,9 +88,12 @@ func main() {
 			remark = remarks[name].(string)
 		}
 		logFile := name + "_" + version + "_armhf.build"
-		row := "<tr bgcolor=\"" + bgcolor + "\"><td></td>\n<td><a href=\"" +
-			sbuildLog + "/" + logFile + "\">" + name + "</a></td>\n<td>" + version + "</td>\n<td>" + status +
-			"</td>\n<td>" + timestmp + "</td>\n<td>" + remark + "</td></tr>\n"
+		row := "<tr bgcolor=\"" + bgcolor + "\"><td></td>\n" +
+			"<td><a href=\"" + sbuildLog + "/" + logFile + "\">" + name + "</a></td>\n" +
+			"<td>" + version + "</td>\n" +
+			"<td>" + status + "</td>\n" +
+			"<td sorttable_customkey=\"" + customTimestmp + "\">" + timestmp + "</td>\n" +
+			"<td>" + remark + "</td></tr>\n"
 		html += row
 	}
 
