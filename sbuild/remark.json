@@ -8,6 +8,8 @@
   "gdbm": "Success if disable parallel build",
   "guile-2.0": "Need build with profile \"cross\"",
   "liblocale-gettext-perl": "Need build with profile \"cross\"",
+  "libqb": "<a href=\"https://github.com/ClusterLabs/libqb/pull/247\">Upstream issue</a>",
+  "libsamplerate": "Bug <a href=\"https://bugs.debian.org/836014\">#836014</a>",
   "libxinerama": "Bug <a href=\"https://bugs.debian.org/861073\">#861073</a>",
   "make-dfsg": "Need build with profile \"nocheck\"",
   "nasm": "Bug <a href=\"https://bugs.debian.org/850933\">#850933</a>",
