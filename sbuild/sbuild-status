@@ -17,7 +17,7 @@ acetoneiso 2.4-3 attempted 2018-01-29T11:12:35Z
 acl 2.2.52-3 successful 2017-07-31T12:27:29Z
 acm 5.0-29.2 attempted 2018-04-28T08:05:31Z
 aconnectgui 0.9.0rc2-1-10 attempted 2017-07-31T12:29:19Z
-acpica-unix 20180209-1 attempted 2018-04-03T08:47:57Z
+acpica-unix 20180508-1 attempted 2018-05-26T08:05:21Z
 acpid 2.0.28-1 successful 2017-07-31T12:32:06Z
 acpi-support 0.142-8 skipped 2017-07-31T12:32:11Z
 acpitool 0.5.1-4 successful 2017-07-31T12:32:48Z
@@ -63,7 +63,7 @@ amap-align 2.2-6 successful 2017-07-31T13:49:31Z
 ambdec 0.5.1-5 attempted 2017-07-31T13:50:16Z
 amb-plugins 0.8.1-7 successful 2017-07-31T13:50:58Z
 amoebax 0.2.1+dfsg-3 attempted 2017-07-31T13:52:58Z
-amphetamine 0.8.10-19 attempted 2017-07-31T13:56:42Z
+amphetamine 0.8.10-20 attempted 2018-05-26T08:07:57Z
 ampliconnoise 1.29-7 attempted 2018-01-08T04:39:51Z
 amule-emc 0.5.2-3 successful 2017-07-31T13:59:10Z
 am-utils 6.2+rc20110530-3.2 attempted 2017-07-31T14:02:00Z
@@ -111,7 +111,7 @@ aspell 0.60.7~20110707-5 successful 2018-05-19T08:09:39Z
 astronomical-almanac 5.6-5 successful 2018-01-08T05:07:50Z
 astyle 3.1-1 successful 2018-04-03T09:11:25Z
 asunder 2.9.3-1 successful 2018-04-14T08:12:05Z
-asylum 0.3.2-2 attempted 2017-07-31T15:37:30Z
+asylum 0.3.2-3 attempted 2018-05-26T08:11:50Z
 asymptote 2.44-1 given-back 2018-04-21T08:05:09Z
 atanks 6.5~dfsg-2 successful 2017-07-31T15:52:49Z
 aterm 1.0.1dummy1 skipped 2017-07-31T15:53:28Z
@@ -152,7 +152,7 @@ ballerburg 1.2.0-2 successful 2018-03-02T08:21:06Z
 ballz 1.0.3-1 successful 2017-07-31T17:16:02Z
 bandwidthd 2.0.1+cvs20090917-11 attempted 2018-01-08T05:55:29Z
 barcode 0.98+debian-9.1 attempted 2017-07-31T17:19:34Z
-barrage 1.0.4-2 successful 2017-07-31T17:21:35Z
+barrage 1.0.4-3 successful 2018-05-26T08:15:51Z
 base-files 10.1 successful 2018-01-22T03:13:27Z
 base-passwd 3.5.45 successful 2018-04-21T08:08:32Z
 bash 4.4.18-2 given-back 2018-04-14T08:14:14Z
@@ -185,7 +185,7 @@ binutils 2.30-15 successful 2018-04-14T08:20:25Z
 biosquid 1.9g+cvs20050121-10 attempted 2017-07-31T18:20:43Z
 bird 1.6.4-1 given-back 2018-04-21T08:08:53Z
 bison 3.0.4.dfsg-1 successful 2017-07-31T18:22:00Z
-bisonc++ 6.01.03-1 given-back 2018-04-03T09:32:07Z
+bisonc++ 6.02.00-1 attempted 2018-05-26T08:18:04Z
 blackbox 0.70.1-36 attempted 2018-03-15T10:20:39Z
 black-box 1.4.8-4 successful 2017-07-31T18:24:58Z
 blepvco 0.1.0-3 attempted 2017-07-31T18:26:43Z
@@ -200,14 +200,14 @@ blop 0.2.8-6 attempted 2017-07-31T18:45:24Z
 blt 2.5.3+dfsg-4 successful 2018-02-06T05:32:01Z
 bluemon 1.4-7 attempted 2017-07-31T18:48:58Z
 bluez 5.49-1 successful 2018-04-21T08:11:34Z
-bluez-qt 5.45.0-1 given-back 2018-05-12T08:06:09Z
+bluez-qt 5.46.0-1 given-back 2018-05-26T08:18:15Z
 bluez-tools 2.0~20170911.0.7cb788c-1 successful 2018-05-19T08:19:01Z
 bmake 20160220-2 successful 2017-07-31T19:00:28Z
 bmon 4.0-4 attempted 2017-07-31T19:01:42Z
 bobcat 4.08.03-1 attempted 2018-05-19T08:20:12Z
 bochs 2.6-5 attempted 2017-07-31T19:06:36Z
 bogofilter 1.2.4+dfsg1-13 attempted 2018-03-15T10:21:35Z
-boinc-app-seti 8.00~svn3701-1 given-back 2018-01-12T08:15:58Z
+boinc-app-seti 8.00~svn3725-2 given-back 2018-05-26T08:18:33Z
 bombardier 0.8.3+nmu1 attempted 2017-07-31T19:10:10Z
 bomberclone 0.11.9-7 successful 2017-07-31T19:12:31Z
 bonnie++ 1.97.3 attempted 2017-07-31T19:14:24Z
@@ -299,7 +299,7 @@ chase 0.5.2-4 successful 2017-07-31T21:43:06Z
 check 0.10.0-3 successful 2017-07-31T21:44:21Z
 checkinstall 1.6.2-4 attempted 2017-07-31T21:44:52Z
 check-mk 1.2.8p16-1 attempted 2017-07-31T21:45:41Z
-checkpolicy 2.7-1 successful 2018-01-08T07:08:33Z
+checkpolicy 2.7-2 successful 2018-05-26T08:19:19Z
 chemeq 2.12-3 successful 2018-03-05T02:41:56Z
 chemtool 1.6.14-2 successful 2018-01-29T14:31:05Z
 chessx 1.4.6-1 attempted 2017-07-31T21:53:41Z
@@ -338,7 +338,7 @@ cmdpack 1.03-1 successful 2017-07-31T22:38:14Z
 cmigemo 1.2+gh0.20150404-6 attempted 2018-02-06T05:51:22Z
 cminpack 1.3.6-2 successful 2017-07-31T22:39:28Z
 cmt 1.16-2 attempted 2017-07-31T22:40:05Z
-cmus 2.7.1+git20160225-1 attempted 2017-07-31T22:42:20Z
+cmus 2.7.1+git20160225-2 attempted 2018-05-26T08:22:37Z
 codec2 0.7-1 successful 2018-01-08T07:24:13Z
 codelite 10.0+dfsg-2 given-back 2018-01-12T08:17:12Z
 colorcode 0.8.5-1 attempted 2017-07-31T22:47:00Z
@@ -428,7 +428,7 @@ dares 0.6.5-7 attempted 2017-08-01T01:25:10Z
 darkplaces 0~20140513+svn12208-7 attempted 2018-01-22T03:26:28Z
 dash 0.5.8-2.10 successful 2018-02-06T06:00:35Z
 dataquay 0.9.1-1 attempted 2017-08-01T01:32:37Z
-davfs2 1.5.4-2 successful 2017-08-01T01:35:19Z
+davfs2 1.5.4-3 successful 2018-05-26T08:26:02Z
 db1-compat 2.1.3-20 successful 2018-03-02T09:20:54Z
 db-defaults 5.3.1 successful 2017-08-01T01:36:26Z
 dbench 4.0-2 successful 2017-08-01T01:37:05Z
@@ -443,7 +443,7 @@ ddate 0.2.2-1 successful 2017-08-01T01:45:00Z
 ddd 3.3.12-5.1 successful 2017-08-01T01:48:00Z
 debdelta 0.61 attempted 2018-04-21T08:25:13Z
 debfoster 2.7-2.1 successful 2017-08-01T01:49:42Z
-debianutils 4.8.4 successful 2018-01-08T08:13:23Z
+debianutils 4.8.6 successful 2018-05-26T08:27:17Z
 deborphan 1.7.28.8-0.3 attempted 2017-08-01T01:50:42Z
 debsig-verify 0.18 successful 2018-01-08T08:14:01Z
 defendguin 0.0.12-6 attempted 2017-08-01T01:53:34Z
@@ -467,7 +467,7 @@ dia2code 0.8.3-4 successful 2017-08-01T02:32:46Z
 dialign 2.2.1-9 successful 2017-08-01T02:33:17Z
 dialign-t 1.0.2-11 successful 2018-03-02T09:21:19Z
 dialog 1.3-20171209-1 successful 2018-01-08T08:39:56Z
-dicom3tools 1.00~20171209092658-1 attempted 2018-01-15T08:20:01Z
+dicom3tools 1.00~20180401144051-1 attempted 2018-05-26T08:33:55Z
 dicomnifti 2.32.1-1 successful 2017-08-01T02:41:50Z
 dictd 1.12.1+dfsg-4 successful 2017-08-01T02:43:00Z
 diction 1.11-1 attempted 2017-08-01T02:43:24Z
@@ -512,7 +512,7 @@ dotconf 1.3-0.3 successful 2018-01-29T14:49:04Z
 double-conversion 2.0.1-5 successful 2018-04-21T08:25:46Z
 dov4l 0.9+repack-1 successful 2017-08-01T03:45:24Z
 dovecot-antispam 2.0+20171229-1 successful 2018-04-28T08:36:27Z
-dracut 047-2 attempted 2018-03-05T02:55:50Z
+dracut 047+31-1 attempted 2018-05-26T08:34:51Z
 drawxtl 5.5-3 successful 2017-08-01T03:48:27Z
 drbd-utils 8.9.10-2 attempted 2017-08-01T03:50:47Z
 dreamchess 0.2.1-RC2-2 successful 2017-08-01T03:56:26Z
@@ -545,7 +545,7 @@ dxflib 3.17.0-2 successful 2017-08-07T07:58:46Z
 dynamite 0.1.1-2 successful 2017-08-01T04:37:37Z
 dzen2 0.9.5~svn271-4 attempted 2017-08-01T04:38:30Z
 e00compr 1.0.1-3 successful 2017-08-01T04:39:12Z
-e2fsprogs 1.44.1-2 successful 2018-04-21T08:28:45Z
+e2fsprogs 1.44.2-1 successful 2018-05-26T08:38:10Z
 e2tools 0.0.16-6.1 attempted 2017-08-01T04:42:52Z
 easychem 0.6-8 attempted 2017-08-01T04:45:43Z
 eb 4.4.3-12 attempted 2018-01-29T14:49:30Z
@@ -593,7 +593,7 @@ espeak 1.48.04+dfsg-6 successful 2018-05-05T08:21:53Z
 eterm 0.9.6-5 given-back 2017-08-01T06:12:26Z
 etherwake 1.09-4 successful 2017-08-01T06:13:00Z
 ethstatus 0.4.8 attempted 2017-08-01T06:13:22Z
-ethtool 4.15-1 successful 2018-04-14T08:51:09Z
+ethtool 4.16-1 successful 2018-05-26T08:38:57Z
 etw 3.6+svn162-3 attempted 2017-08-01T06:17:13Z
 euler 1.61.0-11 successful 2017-08-01T06:22:34Z
 eventlog 0.2.12-7 successful 2017-08-01T06:24:48Z
@@ -607,7 +607,7 @@ exonerate 2.4.0-3 attempted 2018-01-29T15:04:05Z
 expat 2.2.5-3 successful 2018-01-08T10:33:57Z
 expect 5.45.4-2 successful 2018-04-28T08:44:58Z
 ext3grep 0.10.2-3 successful 2017-08-01T06:33:15Z
-ext4magic 0.3.2-7 successful 2017-08-01T06:34:02Z
+ext4magic 0.3.2-10 given-back 2018-05-26T08:39:01Z
 extra-cmake-modules 5.45.0-1 given-back 2018-05-19T08:54:10Z
 extremetuxracer 0.7.5-1 successful 2018-05-05T08:25:48Z
 extundelete 0.2.4-1 successful 2017-08-01T06:41:53Z
@@ -657,7 +657,7 @@ filo 1.1.0-3 successful 2017-08-01T09:18:50Z
 fil-plugins 0.3.0-6 attempted 2017-08-01T09:19:53Z
 filters 2.55-3 successful 2017-08-19T09:59:38Z
 findutils 4.6.0+git+20171230-2 successful 2018-04-03T10:52:51Z
-fio 3.6-1 given-back 2018-05-19T08:54:32Z
+fio 3.6-4 given-back 2018-05-26T08:39:19Z
 fish 2.7.1-3 attempted 2018-03-02T09:41:56Z
 flactag 2.0.4-5 attempted 2017-08-01T09:38:59Z
 flake 0.11-3 attempted 2017-08-01T09:40:41Z
@@ -669,7 +669,7 @@ flatzebra 0.1.6-4 successful 2017-08-01T09:54:48Z
 fldiff 1.1+0-5 successful 2018-01-08T11:31:14Z
 fldigi 4.0.1-1 successful 2017-08-01T10:03:47Z
 flex 2.6.4-6.1 attempted 2018-05-05T08:37:26Z
-flexc++ 2.06.04-2 attempted 2018-05-19T08:55:20Z
+flexc++ 2.07.00-1 attempted 2018-05-26T08:42:02Z
 flickcurl 1.26-4 successful 2018-01-08T11:33:24Z
 flip 1.20-3 attempted 2017-08-01T10:08:58Z
 flite 2.1-release-2 successful 2018-05-05T08:40:35Z
@@ -719,7 +719,7 @@ fstrm 0.3.0-1 successful 2017-08-01T12:41:55Z
 fswebcam 20140113-2 successful 2018-01-08T12:07:02Z
 ftgl 2.1.3~rc5-4+nmu1.2 successful 2018-01-08T12:11:02Z
 ftnchek 3.3.1-5 attempted 2017-08-01T13:09:08Z
-funtools 1.4.7-2 attempted 2018-01-08T12:14:21Z
+funtools 1.4.7-3 attempted 2018-05-26T08:43:14Z
 fuse 2.9.7-1 successful 2017-08-01T13:17:28Z
 fusedav 0.2-3.1 successful 2017-08-01T13:22:15Z
 fuse-exfat 1.2.8-1 successful 2018-03-02T09:58:36Z
@@ -791,7 +791,7 @@ gimp-dcraw 1.32-1 attempted 2017-08-01T17:44:40Z
 gimp-dds 3.0.1-1 attempted 2017-08-01T17:49:16Z
 gimplensfun 0.2.4-1 attempted 2017-08-01T17:53:55Z
 gip 1.7.0-1-4 attempted 2017-08-01T17:58:36Z
-girara 0.2.9-2 successful 2018-04-03T11:11:04Z
+girara 0.3.0-3 successful 2018-05-26T08:48:18Z
 gjacktransport 0.6.1-1 successful 2017-08-01T18:10:03Z
 gkdebconf 2.0.3 attempted 2018-01-08T13:04:20Z
 gkermit 1.0-10 attempted 2017-08-01T18:17:40Z
@@ -837,7 +837,7 @@ gnome-paint 0.4.0-5 successful 2017-08-01T21:00:56Z
 gnome-ppp 0.3.23-2 successful 2017-08-01T21:06:12Z
 gnome-screenshot 3.26.0-3 successful 2018-01-29T15:58:13Z
 gnome-settings-daemon 3.28.1-1 given-back 2018-04-21T09:17:58Z
-gnome-software 3.28.1-1 given-back 2018-04-21T09:18:21Z
+gnome-software 3.28.2-1 given-back 2018-05-26T08:51:34Z
 gnome-themes-standard 3.22.3-4 successful 2018-01-08T16:21:37Z
 gnome-xcf-thumbnailer 1.0-1.2 successful 2017-08-01T21:32:01Z
 gnomint 1.2.1-8 successful 2018-01-08T16:28:32Z
@@ -873,7 +873,7 @@ gpicview 0.2.5-2 successful 2017-08-01T23:00:59Z
 gplanarity 17906-6 attempted 2017-08-01T23:05:50Z
 gplcver 2.12a-1.1 successful 2017-08-01T23:08:14Z
 gpm 1.20.7-5 successful 2018-02-06T06:49:41Z
-gpp 2.24-3 successful 2017-08-01T23:09:19Z
+gpp 2.25-1 attempted 2018-05-26T09:02:09Z
 gpsbabel 1.5.3-2 attempted 2017-08-01T23:11:18Z
 gpscorrelate 1.6.1-6 attempted 2018-04-14T09:03:43Z
 gpsmanshp 1.2.3-6 successful 2018-01-08T17:05:50Z
@@ -901,7 +901,7 @@ gsoap 2.8.60-2 attempted 2018-03-02T10:43:04Z
 gspiceui 1.1.00+dfsg-2 attempted 2018-02-06T07:02:30Z
 gst123 0.3.5-1 successful 2018-01-08T17:33:05Z
 gst-fluendo-mp3 0.10.32.debian-1 attempted 2017-08-02T00:27:00Z
-gst-libav1.0 1.14.0-1 attempted 2018-04-03T11:58:13Z
+gst-libav1.0 1.14.1-1 attempted 2018-05-26T09:06:33Z
 gstm 1.2-8.1 attempted 2017-08-02T00:36:13Z
 gtans 1.99.0-2 successful 2017-08-02T00:42:09Z
 gtick 0.5.4-1 successful 2017-08-02T00:47:08Z
@@ -1039,7 +1039,7 @@ insserv 1.14.0-5.4 successful 2017-08-02T08:00:07Z
 invada-studio-plugins 0.3.1-5 successful 2018-01-08T19:06:40Z
 invada-studio-plugins-lv2 1.2.0+repack0-8 attempted 2018-02-06T07:26:22Z
 inventor 2.1.5-10-21 attempted 2018-02-06T07:41:57Z
-iodine 0.7.0-7 attempted 2017-08-02T08:08:53Z
+iodine 0.7.0-8 attempted 2018-05-26T09:09:28Z
 ioping 1.0-2 successful 2017-08-02T08:09:24Z
 ioquake3 1.36+u20180506.10abac8~dfsg-1 attempted 2018-05-19T09:13:46Z
 iperf 2.0.10+dfsg1-1 successful 2018-01-08T19:11:58Z
@@ -1181,7 +1181,7 @@ libapache-mod-encoding 0.0.20021209-11 successful 2017-08-02T13:59:53Z
 libapr-memcache 0.7.0-3 successful 2017-08-02T14:00:46Z
 libarchive 3.2.2-3.1 given-back 2018-01-12T08:35:28Z
 libart-lgpl 2.3.21-3 successful 2018-01-08T22:49:47Z
-libass 0.14.0-1 successful 2018-01-08T22:51:13Z
+libass 0.14.0-2 successful 2018-05-26T09:11:00Z
 libassuan 2.5.1-2 successful 2018-03-02T13:50:40Z
 libast 0.7-9 attempted 2018-03-02T13:51:43Z
 libasyncns 0.8-6 successful 2017-08-02T14:06:49Z
@@ -1223,7 +1223,7 @@ libcue 2.2.1-1 successful 2018-05-19T11:52:37Z
 libdaemon 0.14-7 successful 2018-05-05T08:56:12Z
 libdbusmenu-qt 0.9.3+16.04.20160218-1 attempted 2017-08-02T15:09:04Z
 libdc1394-22 2.2.5-1 successful 2017-08-02T15:17:09Z
-libdca 0.0.5-10 successful 2017-08-02T15:19:47Z
+libdca 0.0.6-1 successful 2018-05-26T09:12:22Z
 libde265 1.0.3-1 successful 2018-04-28T09:20:43Z
 libdebian-installer 0.116 successful 2018-04-21T10:06:27Z
 libdiscid 0.6.2-2 successful 2017-08-02T15:30:03Z
@@ -1231,7 +1231,7 @@ libdmapsharing 2.9.39-2 given-back 2018-01-12T08:35:42Z
 libdmtx 0.7.4-2 successful 2017-08-02T15:31:06Z
 libdmx 1.1.3-1 attempted 2017-08-02T15:31:56Z
 libdockapp 0.7.2-1 successful 2017-08-02T15:33:16Z
-libdrm 2.4.91-2 successful 2018-04-03T15:29:27Z
+libdrm 2.4.92-1 successful 2018-05-26T09:13:42Z
 libdrumstick 0.5.0-4 successful 2017-08-02T15:40:38Z
 libdshconfig 0.20.13-1.2 successful 2017-08-02T15:43:18Z
 libdumb 0.9.3-6 attempted 2017-08-02T15:44:50Z
@@ -1315,7 +1315,7 @@ libindi 1.7.2+dfsg-1 successful 2018-05-05T08:59:00Z
 libindicator 0.5.0-3 attempted 2017-08-02T17:57:13Z
 libinfinity 0.7.1-1 given-back 2018-01-12T08:36:10Z
 libinklevel 0.9.2-3 successful 2017-08-02T18:08:01Z
-libinput 1.10.6-1 successful 2018-05-12T08:48:45Z
+libinput 1.10.7-1 successful 2018-05-26T09:14:58Z
 libiodbc2 3.52.9-2.1 successful 2018-01-08T23:50:27Z
 libircclient 1.9-1 successful 2017-08-02T18:15:24Z
 libiscsi 1.17.0-1.1 successful 2017-08-02T18:16:39Z
@@ -1411,7 +1411,7 @@ libpaper 1.1.24+nmu5 attempted 2017-08-02T19:49:53Z
 libpciaccess 0.14-1 successful 2018-04-03T15:40:06Z
 libpcre++ 0.9.5-6.1 successful 2017-08-02T19:51:24Z
 libpgf 6.14.12-3.2 successful 2017-08-02T19:52:17Z
-libpg-perl 2.1.1-5 attempted 2017-08-02T19:53:00Z
+libpg-perl 2.1.1-6 attempted 2018-05-26T09:16:02Z
 libphysfs 3.0.1-1 successful 2018-01-09T00:27:25Z
 libpipeline 1.5.0-1 successful 2018-01-09T00:28:37Z
 libpodofo 0.9.5-9 successful 2018-03-05T04:30:14Z
@@ -1434,7 +1434,7 @@ libraw1394 2.1.2-1 successful 2017-08-02T20:33:09Z
 librcc 0.2.12-0.1 attempted 2017-08-02T20:36:33Z
 librcd 0.1.13-3 successful 2017-08-02T20:38:47Z
 librdmacm 1.1.0-2 successful 2017-08-02T20:39:39Z
-librelp 1.2.15-1 successful 2018-04-03T15:48:42Z
+librelp 1.2.16-1 successful 2018-05-26T09:17:05Z
 librep 0.92.5-3 attempted 2017-08-02T20:41:25Z
 libreplaygain 1.0~r475-1 successful 2017-08-02T20:42:09Z
 libresample 0.1.3-4 attempted 2017-08-02T20:42:59Z
@@ -1453,8 +1453,8 @@ libsdl2-net 2.0.1+dfsg1-3 successful 2017-08-07T08:53:49Z
 libsdl2-ttf 2.0.14+dfsg1-2 attempted 2017-08-07T08:57:32Z
 libsdl-console 2.1-5 successful 2017-08-02T21:16:33Z
 libsdl-sge 030809dfsg-7 attempted 2017-08-02T21:19:40Z
-libsepol 2.7-1 successful 2018-01-09T01:04:29Z
-libserialport 0.1.1-2 successful 2018-01-06T11:01:38Z
+libsepol 2.7-2 successful 2018-05-26T09:17:48Z
+libserialport 0.1.1-3 successful 2018-05-26T09:18:25Z
 libsexy 0.1.11-4 successful 2017-08-02T21:25:32Z
 libshairport 1.2.1~git20120510.cbed0c1-3 successful 2017-08-02T21:27:52Z
 libshout 2.4.1-2 successful 2018-01-09T01:05:45Z
@@ -1482,14 +1482,14 @@ libstrophe 0.9.2-1 successful 2018-03-05T04:31:52Z
 libstxxl 1.4.1-3 attempted 2018-03-15T11:37:01Z
 libsynthesis 3.4.0.47.5+syncevolution-1.5.3-1 successful 2018-02-06T07:59:02Z
 libtar 1.2.20-7 successful 2017-08-02T22:06:14Z
-libtasn1-6 4.13-2 successful 2018-02-06T08:01:00Z
+libtasn1-6 4.13-3 successful 2018-05-26T09:19:28Z
 libteam 1.26-1 successful 2017-08-02T22:08:22Z
 libtext-aligner-perl 0.07-1 successful 2017-08-02T22:08:53Z
 libtextwrap 0.1-14.1 attempted 2017-08-02T22:09:23Z
-libticables 1.3.4+dfsg-6 attempted 2017-08-02T22:10:29Z
-libticalcs 1.1.8+dfsg2-3 attempted 2017-08-02T22:12:18Z
-libticonv 1.1.4-3 attempted 2017-08-02T22:13:44Z
-libtifiles 1.1.6-4 attempted 2017-08-02T22:15:20Z
+libticables 1.3.5+dfsg-2 attempted 2018-05-26T09:20:34Z
+libticalcs 1.1.9+dfsg-2 attempted 2018-05-26T09:22:13Z
+libticonv 1.1.5-2 attempted 2018-05-26T09:23:41Z
+libtifiles 1.1.7-2 attempted 2018-05-26T09:25:11Z
 libtirpc 0.2.5-1.2 successful 2017-08-02T22:16:48Z
 libtomcrypt 1.18.1-1 attempted 2018-01-29T17:34:27Z
 libtommath 1.0.1-1 attempted 2018-01-09T01:21:15Z
@@ -1582,7 +1582,7 @@ lksctp-tools 1.0.17+dfsg-2 successful 2018-01-22T04:48:12Z
 lldpd 1.0.1-1 successful 2018-04-21T10:11:31Z
 llvm-defaults 0.40 successful 2018-01-09T02:24:49Z
 lmdb 0.9.21-1 successful 2017-08-03T00:48:53Z
-lmemory 0.6c-8 successful 2017-08-03T00:51:59Z
+lmemory 0.6c-9 successful 2018-05-26T09:28:47Z
 lmms 1.1.3-7.1 attempted 2018-04-03T16:20:38Z
 lm-sensors 3.4.0-4 successful 2017-08-03T00:59:49Z
 lockfile-progs 0.1.17 successful 2017-08-03T01:00:13Z
@@ -1595,7 +1595,7 @@ loudmouth 1.5.3-3 successful 2018-01-09T02:29:21Z
 lpr 2008.05.17.2 attempted 2017-08-03T01:07:02Z
 lprng 3.8.B-2.1 attempted 2017-08-03T01:07:45Z
 lrslib 0.62-2 attempted 2017-08-03T01:08:26Z
-lrzip 0.631-1 successful 2017-08-03T01:09:38Z
+lrzip 0.631+git180517-1 successful 2018-05-26T09:31:43Z
 lrzsz 0.12.21-10 attempted 2018-05-05T09:09:48Z
 lsdvd 0.17-1 successful 2017-08-03T01:10:23Z
 lshw 02.18-0.1 attempted 2017-08-03T01:13:22Z
@@ -1624,8 +1624,8 @@ lxinput 0.3.5-1 successful 2017-08-03T02:01:30Z
 lxlauncher 0.2.5-1 successful 2017-08-03T02:06:44Z
 lxrandr 0.3.1-1 successful 2017-08-03T02:14:41Z
 lxtask 0.1.8-1 successful 2017-08-03T02:24:09Z
-lynx 2.8.9dev18-1 successful 2018-05-19T12:08:16Z
-lz4 1.8.1.2-1 successful 2018-04-21T10:12:32Z
+lynx 2.8.9dev19-1 successful 2018-05-26T09:33:38Z
+lz4 1.8.2-1 successful 2018-05-26T09:34:37Z
 lzip 1.20-1 successful 2018-03-02T14:07:25Z
 lzlib 1.10-1 successful 2018-03-02T14:07:54Z
 lzma 9.22-2.1 successful 2018-01-09T03:15:45Z
@@ -1670,13 +1670,13 @@ mc 4.8.20-1 successful 2018-03-15T11:49:40Z
 mcpp 2.7.2-4 successful 2017-08-03T03:53:45Z
 mcp-plugins 0.4.0-6 successful 2018-01-22T04:49:33Z
 mcrypt 2.6.8-1.3 successful 2017-08-03T03:55:50Z
-mdadm 4.0-2 attempted 2018-01-09T04:25:07Z
+mdadm 4.1~rc1-1 attempted 2018-05-26T09:35:05Z
 mdetect 0.5.2.4 successful 2017-08-03T03:56:53Z
 mdf2iso 0.3.1-1 successful 2017-08-03T03:57:19Z
 mdm 0.1.3-2.1 attempted 2017-08-03T03:57:47Z
 mdns-scan 0.5-2 attempted 2017-08-03T03:58:16Z
 meanwhile 1.0.2-9 successful 2017-08-03T03:59:41Z
-mecab 0.996-5 successful 2018-03-02T14:12:36Z
+mecab 0.996-6 successful 2018-05-26T09:35:58Z
 mediainfo 18.03.1-1 attempted 2018-04-28T09:36:30Z
 mediatomb 0.12.1-47-g7ab7616-1 given-back 2017-08-03T04:20:16Z
 mednafen 1.21.3+dfsg-1 successful 2018-05-19T12:15:16Z
@@ -1714,7 +1714,7 @@ min12xxw 0.0.9-10 successful 2018-03-02T14:15:03Z
 minc-tools 2.3.00+dfsg-2 successful 2018-01-09T14:39:28Z
 minetest 0.4.16+repack-4 given-back 2018-01-12T08:40:01Z
 mingetty 1.08-2 successful 2017-08-03T05:51:01Z
-mingw-w64 5.0.3-1 attempted 2018-01-09T14:42:43Z
+mingw-w64 5.0.3-2 attempted 2018-05-26T09:37:51Z
 mini18n 0.2.1-1 successful 2017-08-03T05:53:31Z
 minicom 2.7.1-1 attempted 2018-01-06T11:21:15Z
 minidjvu 0.8.svn.2010.05.06+dfsg-5 successful 2017-08-03T05:55:05Z
@@ -1738,7 +1738,7 @@ mm3d 1.3.9+git20180220-1 given-back 2018-03-16T03:16:37Z
 mmv 1.01b-19 successful 2017-08-03T06:29:56Z
 moblin-gtk-engine 1.1.1-1.1 successful 2017-08-03T06:33:03Z
 moc 2.6.0~svn-r2949-2 attempted 2017-08-03T06:38:12Z
-modemmanager-qt 5.45.0-1 given-back 2018-05-12T08:58:16Z
+modemmanager-qt 5.46.0-1 given-back 2018-05-26T09:37:55Z
 modglue 1.17-3 attempted 2017-08-03T06:50:22Z
 modules 4.1.2-2 attempted 2018-05-19T12:19:33Z
 monit 5.25.1-1 attempted 2018-01-09T15:10:52Z
@@ -1750,7 +1750,7 @@ morse 2.5-1 attempted 2017-08-03T07:02:33Z
 mosh 1.3.2-2 given-back 2018-01-12T08:41:20Z
 most 5.0.0a-4 attempted 2017-08-03T07:04:07Z
 motif 2.3.8-2 attempted 2018-03-05T05:01:11Z
-motion 4.0-1 attempted 2017-08-03T07:18:07Z
+motion 4.1.1-1 attempted 2018-05-26T09:42:12Z
 mouseemu 0.15-10 attempted 2017-08-03T07:30:55Z
 mousetweaks 3.12.0-4 successful 2018-01-09T15:24:39Z
 mozplugger 1.14.5-2 attempted 2017-08-03T07:57:10Z
@@ -1801,7 +1801,7 @@ muparser 2.2.3-6 successful 2017-08-03T09:15:52Z
 mupdf 1.13.0+ds1-1 attempted 2018-05-05T09:13:50Z
 mupen64plus-core 2.5-4 skipped 2017-08-03T09:18:18Z
 muscle 3.8.31+dfsg-3 successful 2017-08-19T11:00:40Z
-musescore 2.2.1+dfsg1-4 given-back 2018-05-05T09:15:14Z
+musescore 2.2.1+dfsg1-5 given-back 2018-05-26T09:44:46Z
 musixtex 1.20.ctan20151216-4 skipped 2017-08-03T09:27:23Z
 mustang 3.2.3-3 successful 2018-04-21T10:13:35Z
 mutt 1.9.5-2 given-back 2018-04-28T09:39:35Z
@@ -1813,7 +1813,7 @@ mysqltcl 3.052-2 successful 2017-08-03T09:30:31Z
 mythes 1.2.4-3 successful 2017-08-03T09:31:14Z
 nagios-nrpe 3.2.1-1 successful 2018-01-09T16:14:08Z
 nam 1.15-4 attempted 2017-08-03T09:33:26Z
-nano 2.9.6-1 successful 2018-05-12T09:01:08Z
+nano 2.9.7-1 successful 2018-05-26T09:47:13Z
 nas 1.9.4-6 attempted 2017-08-12T09:51:47Z
 nasm 2.13.02-0.1 given-back 2018-01-12T08:41:47Z
 nast 0.2.0-7 successful 2017-08-03T09:39:05Z
@@ -1864,8 +1864,8 @@ nettoe 1.5.1-2 attempted 2017-08-03T10:51:03Z
 net-tools 1.60+git20161116.90da8a0-2 successful 2018-03-02T14:43:26Z
 network-manager-iodine 1.2.0-3 attempted 2018-01-29T17:56:43Z
 network-manager-openconnect 1.2.4-1 successful 2017-08-03T11:06:19Z
-network-manager-openvpn 1.8.2-1 successful 2018-04-03T17:34:34Z
-networkmanager-qt 5.45.0-1 given-back 2018-05-12T09:01:53Z
+network-manager-openvpn 1.8.4-1 successful 2018-05-26T09:52:00Z
+networkmanager-qt 5.46.0-1 given-back 2018-05-26T09:55:01Z
 network-manager-vpnc 1.2.4-7 successful 2018-04-14T09:42:12Z
 neverball 1.6.0-8 successful 2017-08-03T11:35:29Z
 newmail 0.5-2 successful 2017-08-03T11:37:23Z
@@ -1875,7 +1875,7 @@ nfft 3.3.2-2 successful 2017-08-03T11:40:23Z
 nfs4-acl-tools 0.3.3-3 attempted 2017-08-03T11:40:59Z
 nfs-utils 1.3.4-2.2 successful 2018-03-05T05:03:19Z
 nfswatch 4.99.11-4 successful 2018-04-03T17:47:04Z
-nghttp2 1.31.1-1 successful 2018-04-28T09:41:30Z
+nghttp2 1.32.0-1 successful 2018-05-26T09:57:28Z
 ngrep 1.47+ds1-1 successful 2018-01-09T17:18:44Z
 ng-utils 1.0-1 successful 2017-08-03T11:47:01Z
 nicstat 1.95-1 attempted 2017-08-03T11:47:21Z
@@ -1944,7 +1944,7 @@ opendkim 2.11.0~alpha-11 attempted 2018-01-12T08:51:17Z
 openexr 2.2.1-4 attempted 2018-04-03T17:50:36Z
 openhpi 3.6.1-3.1 attempted 2018-02-06T08:26:26Z
 open-invaders 0.3-4.3 successful 2017-08-03T13:56:53Z
-openipmi 2.0.22-1.1 successful 2017-08-03T13:58:40Z
+openipmi 2.0.25-2 successful 2018-05-26T09:59:47Z
 open-iscsi 2.0.874-5 attempted 2018-01-09T18:38:28Z
 openlibm 0.5.4+dfsg-3 attempted 2017-08-03T14:00:04Z
 openntpd 6.2p3-1 successful 2018-01-09T18:49:29Z
@@ -1955,14 +1955,14 @@ opensc 0.17.0-3 successful 2018-03-05T05:06:37Z
 openslide 3.4.1+dfsg-2 successful 2017-08-03T14:09:58Z
 opensm 3.3.20-2 successful 2018-01-15T10:03:36Z
 openssh 7.7p1-2 successful 2018-04-14T09:52:27Z
-openssl 1.1.0h-2 successful 2018-04-03T17:52:28Z
+openssl 1.1.0h-4 successful 2018-05-26T10:01:43Z
 openssn 1.4-2 attempted 2018-05-12T09:24:08Z
 openuniverse 1.0beta3.1+dfsg-6 attempted 2017-08-03T14:29:18Z
 open-vm-tools 10.2.5-1 skipped 2018-04-14T09:46:18Z
 openvpn 2.4.5-1 attempted 2018-03-15T12:14:12Z
 ophcrack 3.8.0-2 attempted 2018-03-15T12:17:03Z
 optipng 0.7.6-1.1 attempted 2018-01-09T19:07:30Z
-opus 1.2.1-1 successful 2018-01-09T19:08:01Z
+opus 1.3~beta+20180518-1 successful 2018-05-26T10:02:20Z
 opusfile 0.9+20170913-1 successful 2018-01-09T19:08:30Z
 opus-tools 0.1.10-1 successful 2017-08-03T14:37:07Z
 orbit2 2.14.19-4 attempted 2018-01-09T19:10:04Z
@@ -1971,7 +1971,7 @@ original-awk 2012-12-20-6 attempted 2017-08-03T14:43:03Z
 osmctools 0.8-1 successful 2018-01-09T19:13:43Z
 osmo 0.4.2-1 successful 2018-01-09T19:19:40Z
 os-prober 1.76 successful 2017-08-03T14:57:39Z
-oss-compat 6 successful 2017-08-03T14:58:03Z
+oss-compat 7 successful 2018-05-26T10:02:41Z
 osspd 1.3.2-9 successful 2018-01-09T19:23:59Z
 otcl 1.14+dfsg-3 successful 2017-08-03T15:02:53Z
 ots 0.5.0-2.3 successful 2017-08-03T15:10:56Z
@@ -1996,7 +1996,7 @@ par 1.52-3 attempted 2017-08-03T16:17:58Z
 par2cmdline 0.8.0-1 attempted 2018-01-15T10:06:23Z
 parcellite 1.2.1-2 successful 2018-01-09T19:44:16Z
 parchive 1.1-4.1 attempted 2017-08-03T16:27:45Z
-pari 2.9.4-1 attempted 2018-02-06T08:41:17Z
+pari 2.9.5-1 given-back 2018-05-26T10:02:45Z
 paris-traceroute 0.93+git20160927-1 successful 2017-08-03T16:29:56Z
 partclone 0.3.11-1 successful 2018-01-09T19:48:16Z
 parted 3.2-21 successful 2018-04-14T10:00:30Z
@@ -2024,12 +2024,12 @@ pdf2svg 0.2.3-1 successful 2017-08-12T09:58:33Z
 pdfchain 0.4.4.2-1 successful 2017-08-03T17:29:28Z
 pdfcrack 0.16-1 successful 2017-08-03T17:32:19Z
 pdfgrep 2.0.1-1 successful 2018-01-09T20:06:48Z
-pdfresurrect 0.14-2 successful 2018-05-12T09:26:25Z
+pdfresurrect 0.15-1 successful 2018-05-26T10:03:27Z
 pdmenu 1.3.4 attempted 2017-08-03T17:34:08Z
 pekwm 0.1.17-3 successful 2017-08-03T17:36:18Z
 penguin-command 1.6.11-3 attempted 2017-08-03T17:38:44Z
 percona-xtrabackup 2.2.3-2.1 attempted 2017-08-03T17:41:15Z
-perl 5.26.2-3 attempted 2018-05-05T09:24:56Z
+perl 5.26.2-5 attempted 2018-05-26T10:06:09Z
 petris 1.0.1-10 attempted 2017-08-03T17:44:20Z
 pfb2t1c2pfb 0.3-11 successful 2017-08-03T17:44:44Z
 pfqueue 0.5.6-9 successful 2017-08-03T17:45:20Z
@@ -2102,7 +2102,7 @@ postfix 3.3.0-1 attempted 2018-03-05T05:11:38Z
 potrace 1.14-2 successful 2017-08-03T19:53:22Z
 powermanga 0.93.1-2 successful 2017-08-03T19:55:30Z
 powerpc-utils 1.3.2-1 skipped 2017-08-03T19:56:52Z
-powerstat 0.02.15-1 successful 2018-02-06T08:45:03Z
+powerstat 0.02.16-1 successful 2018-05-26T10:06:39Z
 powertop 2.8-1 successful 2017-08-03T19:58:53Z
 ppl 1.2-2 given-back 2017-08-03T19:59:06Z
 ppp 2.4.7-2+2 attempted 2018-03-05T05:12:45Z
@@ -2122,7 +2122,7 @@ probcons 1.12-11 successful 2017-08-03T20:31:21Z
 procinfo 2.0.304-3 successful 2018-01-09T21:13:34Z
 procmail 3.22-26 successful 2018-01-09T21:13:58Z
 procmeter3 3.6-1 attempted 2017-08-03T20:36:09Z
-procps 3.3.14-1 successful 2018-04-21T10:34:06Z
+procps 3.3.15-1 successful 2018-05-26T10:07:39Z
 proda 1.0-11 successful 2017-08-03T20:40:33Z
 proftmb 1.1.12-7 attempted 2018-01-09T21:14:29Z
 proftpd-dfsg 1.3.6-2 successful 2018-05-05T09:31:41Z
@@ -2152,7 +2152,7 @@ pxz 4.999.99~beta5+gitfcfea93-2 attempted 2018-01-09T21:32:54Z
 pybik 3.0-2 given-back 2018-01-12T08:52:46Z
 python3-stdlib-extensions 3.6.5~rc1-1 attempted 2018-04-03T17:58:44Z
 q4wine 1.3.6-2 successful 2018-01-09T21:41:45Z
-qbs 1.11.0+dfsg-1 attempted 2018-04-21T10:39:11Z
+qbs 1.11.1+dfsg-2 attempted 2018-05-26T10:13:08Z
 qca2 2.1.3-2 successful 2018-02-06T09:02:16Z
 qcomicbook 0.9.1-2 successful 2018-01-09T21:54:06Z
 qconf 2.4-3 attempted 2018-03-15T12:34:43Z
@@ -2179,7 +2179,7 @@ qrencode 3.4.4-1 successful 2017-08-03T22:37:51Z
 qsampler 0.5.0-1 attempted 2018-01-09T22:14:11Z
 qstat 2.15-4 attempted 2017-08-03T22:43:16Z
 qsynth 0.5.0-2 attempted 2018-01-15T10:28:51Z
-qt4-x11 4.8.7+dfsg-16 attempted 2018-05-12T09:56:48Z
+qt4-x11 4.8.7+dfsg-17 attempted 2018-05-26T10:23:06Z
 qt-assistant-compat 4.6.3-7 attempted 2017-08-03T22:59:20Z
 qtchooser 64-ga1b6736-5 successful 2018-01-09T22:24:44Z
 qtconnectivity-opensource-src 5.10.1-2 attempted 2018-04-21T10:46:30Z
@@ -2285,7 +2285,7 @@ rsyslog 8.34.0-1 given-back 2018-04-14T10:21:48Z
 rtkit 0.11-6 attempted 2018-03-05T05:26:09Z
 rtl-sdr 0.5.4-1 successful 2018-05-19T13:02:13Z
 rtmidi 3.0.0~ds1-2 successful 2018-01-10T00:48:50Z
-rtmpdump 2.4+20151223.gitfa8646d.1-1 successful 2017-08-04T03:24:44Z
+rtmpdump 2.4+20151223.gitfa8646d.1-2 successful 2018-05-26T10:26:57Z
 rtorrent 0.9.6-3 attempted 2018-01-10T00:49:55Z
 rubberband 1.8.1-7 successful 2017-08-04T03:29:03Z
 ruli 0.33-1.1 attempted 2017-08-04T03:30:10Z
@@ -2309,7 +2309,7 @@ sbc 1.3-2 successful 2017-08-04T04:12:50Z
 sc 7.16-4 attempted 2017-08-04T04:13:17Z
 scalpel 1.60-4 successful 2017-08-04T04:13:42Z
 scanssh 2.0-4.1 attempted 2017-08-04T04:14:13Z
-schedtool 1.3.0-2 successful 2017-08-04T04:14:41Z
+schedtool 1.3.0-3 successful 2018-05-26T10:27:33Z
 scid 4.6.4+dfsg1-2 attempted 2017-08-04T04:16:32Z
 scim 1.4.18-2 attempted 2018-04-21T12:40:17Z
 scim-chewing 0.5.1-2 successful 2017-08-04T04:37:46Z
@@ -2366,7 +2366,7 @@ sigscheme 0.9.0-1 successful 2018-05-19T13:11:17Z
 silly 0.1.0-8 attempted 2017-08-04T06:53:06Z
 silversearcher-ag 2.1.0-1 given-back 2018-01-12T09:00:28Z
 sim4 0.0.20121010-4 successful 2017-08-04T06:55:29Z
-simage 1.7.1~2c958a6.dfsg-4 successful 2017-08-04T06:56:16Z
+simage 1.7.1~2c958a6.dfsg-5 successful 2018-05-26T10:28:21Z
 simpleburn 1.8.0-1 successful 2017-08-04T07:00:41Z
 simulpic 2005-1-28-10 successful 2018-01-10T01:52:00Z
 simutrans 120.2.2-3 successful 2018-04-14T10:26:02Z
@@ -2482,7 +2482,7 @@ steghide 0.5.1-12 attempted 2017-08-04T11:23:07Z
 stellarium 0.18.0-1 successful 2018-04-03T19:15:57Z
 ste-plugins 0.0.2-6 successful 2018-01-10T15:17:58Z
 stk 4.5.2+dfsg-5 successful 2017-08-04T11:31:31Z
-stockfish 8-3 attempted 2017-08-04T11:32:29Z
+stockfish 8-4 successful 2018-05-26T10:29:10Z
 stoken 0.92-1 successful 2018-01-10T15:32:32Z
 stopmotion 0.8.2-1 attempted 2018-02-08T08:57:12Z
 stormbaancoureur 2.1.6-2 attempted 2017-08-04T11:42:31Z
@@ -2492,7 +2492,7 @@ stress 1.0.4-2 successful 2017-08-04T11:45:54Z
 strongswan 5.6.2-2 successful 2018-04-21T12:57:27Z
 stterm 0.6-1 attempted 2017-08-04T11:50:54Z
 stun 0.97~dfsg-2.1 successful 2017-08-04T11:51:36Z
-stunnel4 5.44-1 successful 2018-01-10T15:46:03Z
+stunnel4 5.44-2 successful 2018-05-26T10:30:04Z
 subnetcalc 2.1.3-1 successful 2017-08-04T11:53:05Z
 subtitleeditor 0.54.0-3 successful 2018-05-05T10:01:07Z
 suckless-tools 43-1 successful 2017-08-19T11:40:05Z
@@ -2528,7 +2528,7 @@ taglib-extras 1.0.1-3.1 successful 2017-08-04T13:06:07Z
 tagtool 0.12.3-9 successful 2017-08-04T13:09:55Z
 tamuanova 0.2-4 successful 2017-08-04T13:12:20Z
 tap-plugins 1.0.0-1 successful 2018-01-10T16:50:01Z
-tar 1.29b-2 successful 2017-08-04T13:14:10Z
+tar 1.30+dfsg-2 successful 2018-05-26T10:31:37Z
 tbb 2017~U7-8 attempted 2018-01-10T16:51:06Z
 tcl8.4 8.4.20-8 successful 2017-08-04T13:16:04Z
 tcl8.5 8.5.19-4 successful 2018-03-05T05:46:58Z
@@ -2554,7 +2554,7 @@ tea 44.1.1-2 successful 2018-01-29T20:33:04Z
 tecnoballz 0.93.1-8 successful 2017-08-04T13:40:33Z
 teg 0.11.2+debian-5 successful 2017-08-07T09:47:43Z
 telepathy-accounts-signon 1.0-1 attempted 2017-08-04T13:52:22Z
-tesseract 4.00~git2439-c3ed6f03-1 given-back 2018-05-12T10:20:47Z
+tesseract 4.00~git2439-c3ed6f03-2 attempted 2018-05-26T10:35:58Z
 testdisk 7.0-3 successful 2017-08-04T14:06:02Z
 tetgen 1.5.0-4 attempted 2017-08-04T14:07:16Z
 tetrinet 0.11+CVS20070911-2 successful 2017-08-04T14:08:01Z
@@ -2573,7 +2573,7 @@ tightvnc 1.3.9-9 attempted 2017-08-04T14:29:35Z
 tigr-glimmer 3.02b-1 attempted 2017-08-04T14:30:48Z
 tilda 1.4.1-2 successful 2018-03-05T05:59:22Z
 tiled-qt 1.1.5-1 attempted 2018-05-19T13:43:50Z
-tilp2 1.17-3 successful 2018-01-06T12:24:35Z
+tilp2 1.18-1 successful 2018-05-26T10:41:11Z
 time 1.7-25.1 successful 2017-08-04T14:55:36Z
 timemachine 0.3.3-2.1 successful 2017-08-04T15:00:41Z
 timidity 2.13.2-41 attempted 2018-01-15T11:23:29Z
@@ -2618,7 +2618,7 @@ transcend 0.3.dfsg2-3 attempted 2017-08-04T16:36:18Z
 transmission 2.94-1 given-back 2018-05-12T10:26:46Z
 transmission-remote-gtk 1.3.1-2 given-back 2017-08-04T16:45:04Z
 transtermhp 2.09-3 successful 2017-08-04T16:45:54Z
-traverso 0.49.5-2 attempted 2018-03-02T17:50:10Z
+traverso 0.49.5-3 attempted 2018-05-26T10:48:03Z
 trayer 1.1.8-1 attempted 2018-04-03T19:42:22Z
 tre 0.8.0-6 successful 2017-08-04T16:56:20Z
 tree 1.7.0-5 successful 2017-08-04T16:56:47Z
@@ -2637,7 +2637,7 @@ tth 4.12+ds-2 attempted 2018-03-02T17:59:27Z
 tty-clock 2.3-1 successful 2017-08-04T17:21:49Z
 ttyrec 1.0.8-5 successful 2017-08-04T17:22:16Z
 tumbler 0.2.1-1 attempted 2018-04-14T10:37:14Z
-tuxfootball 0.3.1-5 successful 2018-01-10T19:12:15Z
+tuxfootball 0.3.1-6 successful 2018-05-26T10:54:37Z
 tuxmath 2.0.3-2 successful 2018-01-10T19:18:21Z
 tuxpaint 0.9.22-12 attempted 2018-04-03T19:56:41Z
 tuxpaint-config 0.0.13-8 successful 2018-03-02T18:18:16Z
@@ -2647,7 +2647,7 @@ tvtime 1.0.11-1 successful 2017-08-04T17:56:28Z
 tweak 3.02-2 attempted 2018-03-02T18:20:12Z
 twinkle 1.10.1+dfsg-3 successful 2018-04-03T20:04:38Z
 twm 1.0.9-1 successful 2017-08-04T18:04:12Z
-twolame 0.3.13-3 successful 2018-01-10T19:29:56Z
+twolame 0.3.13-4 successful 2018-05-26T10:57:08Z
 typespeed 0.6.5-2.1 attempted 2017-08-04T18:05:59Z
 u-boot 2018.05+dfsg-1 attempted 2018-05-19T13:51:17Z
 ucblogo 6.0+dfsg-2 attempted 2018-03-02T18:23:46Z
@@ -2678,7 +2678,7 @@ unifont 10.0.07-1 successful 2018-01-10T19:53:49Z
 unionfs-fuse 1.0-1 attempted 2017-08-04T18:48:08Z
 uniutils 2.27-2 successful 2017-08-04T18:48:53Z
 unixcw 3.5.1-2 attempted 2017-08-04T18:51:36Z
-unixodbc 2.3.4-1.1 successful 2018-01-10T19:56:49Z
+unixodbc 2.3.6-0.1 successful 2018-05-26T10:58:43Z
 unixodbc-gui-qt 2.3.0-4 attempted 2017-08-04T18:58:00Z
 unmass 0.9-4 successful 2018-05-12T10:37:36Z
 unmo3 0.6-2 successful 2018-03-02T18:26:48Z
@@ -2762,11 +2762,11 @@ warzone2100 3.2.1-3 attempted 2018-03-05T06:33:38Z
 watchdog 5.15-2 successful 2017-08-04T21:09:52Z
 wavemon 0.8.2-1 successful 2018-04-14T10:43:48Z
 wavpack 5.1.0-3 successful 2018-05-12T10:38:43Z
-wayland 1.15.0-1 attempted 2018-05-19T13:54:54Z
+wayland 1.15.0-2 attempted 2018-05-26T11:00:11Z
 wbar 2.3.4-7 successful 2017-08-04T21:15:28Z
 wbxml2 0.10.7-1 attempted 2017-08-04T21:18:07Z
 wcalc 2.5-3 successful 2018-04-07T09:41:53Z
-wcstools 3.9.5-2 attempted 2018-02-06T09:27:06Z
+wcstools 3.9.5-3 successful 2018-05-26T11:01:55Z
 wdiff 1.2.2-2 successful 2017-08-04T21:21:03Z
 webalizer 2.23.08-3 successful 2018-01-10T20:48:18Z
 webfs 1.21+ds1-12 attempted 2017-08-04T21:23:21Z
@@ -2807,7 +2807,7 @@ wnn6-sdk 1.0.0-18 attempted 2017-08-04T22:17:57Z
 wordplay 7.22-19 successful 2018-01-10T21:01:42Z
 worker 3.14.0-2 successful 2018-01-29T21:22:49Z
 worklog 1.9-1 attempted 2018-03-02T18:37:42Z
-wput 0.6.2+git20130413-7 successful 2017-08-04T22:22:43Z
+wput 0.6.2+git20130413-8 successful 2018-05-26T11:02:42Z
 w-scan 20170107-2 successful 2018-03-05T06:29:06Z
 wv 1.2.9-4.2 attempted 2017-08-04T22:25:18Z
 wvdial 1.61-4.1 attempted 2017-08-04T22:26:38Z
@@ -2822,9 +2822,9 @@ x11-xfs-utils 7.7+2 successful 2017-08-04T22:51:21Z
 x11-xkb-utils 7.7+4 successful 2018-05-05T10:41:30Z
 x11-xserver-utils 7.7+8 successful 2018-04-03T20:40:15Z
 x264 0.152.2854+gite9a5903-2 successful 2018-01-29T21:30:44Z
-x265 2.7-2 attempted 2018-05-05T10:43:11Z
+x265 2.7-3 attempted 2018-05-26T11:04:12Z
 x2vnc 1.7.2-6 successful 2017-08-04T23:02:42Z
-x2x 1.30-5 attempted 2018-03-15T13:02:51Z
+x2x 1.30-6 successful 2018-05-26T11:05:07Z
 x42-plugins 20170428-1.1 attempted 2018-04-14T10:49:04Z
 xabacus 8.1.7+dfsg1-1 attempted 2018-04-21T13:10:56Z
 xalan 1.11-8 attempted 2018-05-19T13:58:20Z
@@ -2904,7 +2904,7 @@ xjadeo 0.8.7-2 successful 2017-08-05T01:08:45Z
 xjig 2.4-14.1 attempted 2018-04-14T10:51:35Z
 xkbset 0.5-7.1 successful 2018-05-05T10:43:55Z
 xkeycaps 2.47-5 attempted 2018-01-10T21:39:58Z
-xl2tpd 1.3.11-1 attempted 2018-04-03T21:03:12Z
+xl2tpd 1.3.12-1 attempted 2018-05-26T11:05:45Z
 xless 1.7-14.3 attempted 2017-08-05T01:14:12Z
 xletters 1.1.1-5 successful 2017-08-05T01:15:23Z
 xli 1.17.0+20061110-5 successful 2018-01-10T21:41:13Z
@@ -2922,9 +2922,9 @@ xmlrpc-c 1.33.14-8 given-back 2018-01-12T09:05:43Z
 xmlsec1 1.2.25-1 successful 2018-01-10T21:48:32Z
 xml-security-c 1.7.3-4 attempted 2017-08-05T01:35:26Z
 xmorph 20140707+nmu2 attempted 2017-08-05T01:39:03Z
-xmount 0.7.3-1 attempted 2017-08-05T01:42:06Z
+xmount 0.7.6-1 attempted 2018-05-26T11:07:04Z
 xmountains 2.9-5 successful 2018-02-06T09:49:12Z
-xmp 4.1.0-1 successful 2017-08-05T01:44:40Z
+xmp 4.1.0-2 successful 2018-05-26T11:09:02Z
 xneur 0.20.0-1 successful 2017-08-05T01:47:52Z
 xombrero 1.6.4-3 attempted 2017-08-05T01:53:00Z
 xorg 7.7+19 successful 2017-08-05T01:56:31Z
