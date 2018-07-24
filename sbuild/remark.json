@@ -2,6 +2,7 @@
   "autogen": "Need build with profile \"cross\"",
   "bash": "Need build with profile \"nocheck\"",
   "busybox": "Bug <a href=\"https://bugs.debian.org/794526\">#794526</a>",
+  "coreutils": "Bug <a href=\"https://bugs.debian.org/721358\">#721358</a>",
   "dsh": "Bug <a href=\"https://bugs.debian.org/869478\">#869478</a>",
   "e2fsprogs": "Success if disable parallel build",
   "flex": "Bug <a href=\"https://bugs.debian.org/833146\">#833146</a>",
