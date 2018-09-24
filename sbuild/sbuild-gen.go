@@ -29,7 +29,8 @@ import (
 )
 
 const (
-	sbuildLog = "https://raw.githubusercontent.com/dothanhtrung/build-log/master"
+	sbuildLog            = "https://raw.githubusercontent.com/dothanhtrung/build-log/master/"
+	debian_cross_patches = "https://github.com/meta-debian/debian-cross-patches/tree/master/"
 )
 
 func main() {
@@ -87,9 +88,14 @@ func main() {
 		if remarks[name] != nil {
 			remark = remarks[name].(string)
 		}
+		if _, err := os.Stat("./debian-cross-patches/"+name); !os.IsNotExist(err) {
+			remark += "\n (<a href=\"" + debian_cross_patches + name + "\">debian-cross-patches</a>)"
+		}
+
+
 		logFile := name + "_" + version + "_armhf.build"
 		row := "<tr bgcolor=\"" + bgcolor + "\"><td></td>\n" +
-			"<td><a href=\"" + sbuildLog + "/" + logFile + "\">" + name + "</a></td>\n" +
+			"<td><a href=\"" + sbuildLog + logFile + "\">" + name + "</a></td>\n" +
 			"<td>" + version + "</td>\n" +
 			"<td>" + status + "</td>\n" +
 			"<td sorttable_customkey=\"" + customTimestmp + "\">" + timestmp + "</td>\n" +
