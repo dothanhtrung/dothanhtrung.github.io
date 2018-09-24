@@ -89,6 +89,9 @@ func main() {
 			remark = remarks[name].(string)
 		}
 		if _, err := os.Stat("./debian-cross-patches/"+name); !os.IsNotExist(err) {
+			if remark != "" {
+				remark += "</br>"
+			}
 			remark += "\n (<a href=\"" + debian_cross_patches + name + "\">debian-cross-patches</a>)"
 		}
 
