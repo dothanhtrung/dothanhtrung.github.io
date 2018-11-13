@@ -34,7 +34,7 @@ const (
 )
 
 func main() {
-	statusFile, _ := ioutil.ReadFile("sbuild-status")
+	statusFile, _ := ioutil.ReadFile("sbuild-result")
 	lines := strings.Split(string(statusFile), "\n")
 
 	var remarks map[string]interface{}
