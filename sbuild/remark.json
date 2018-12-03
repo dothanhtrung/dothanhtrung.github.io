@@ -1,4 +1,5 @@
 {
+  "acm": "Cannot build parallel. Compile requires to run dis/disgen which is a cross-built binary.",
   "autogen": "Need build with profile \"cross\"",
   "bash": "Need build with profile \"nocheck\"",
   "busybox": "Bug <a href=\"https://bugs.debian.org/794526\">#794526</a>",
