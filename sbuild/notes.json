@@ -1,0 +1,165 @@
+{
+  "9menu": {
+    "bugs": ["921048"],
+    "submitted": true
+  },
+  "acm": {
+    "remark": "Cannot build parallel. Compile requires to run dis/disgen which is a cross-built binary."
+  },
+  "agg": {
+    "bugs": ["914740"]
+  },
+  "and": {
+    "bugs": ["915441"]
+  },
+  "autogen": {
+    "remark": "Need build with profile \"cross\""
+  },
+  "bash": {
+    "remark": "Need build with profile \"nocheck\""
+  },
+  "between": {
+    "bugs": ["911249"]
+  },
+  "busybox": {
+    "bugs": ["794526"],
+    "submitted": true
+  },
+  "coreutils": {
+    "bugs": ["721358"],
+    "submitted": true
+  },
+  "dsh": {
+    "bugs": ["869478"]
+  },
+  "e2fsprogs": {
+    "remark": "Success if disable parallel build"
+  },
+  "epcr": {
+    "bugs": ["922192"],
+    "submitted": true
+  },
+  "flex": {
+    "bugs": ["833146"]
+  },
+  "gdbm": {
+    "remark": "Success if disable parallel build"
+  },
+  "guile-2.0": {
+    "remark": "Need build with profile \"cross\""
+  },
+  "ht": {
+    "bugs": ["914630"]
+  },
+  "leaktracer": {
+    "bugs": ["865741"]
+  },
+  "libdmx": {
+    "remark": "Temporary defer cache variable patches"
+  },
+  "libfs": {
+    "remark": "Temporary defer cache variable patches"
+  },
+  "liblocale-gettext-perl": {
+    "remark": "Need build with profile \"cross\""
+  },
+  "libqb": {
+    "remark": "<a href=\"https://github.com/ClusterLabs/libqb/pull/247\">Upstream issue</a>"
+  },
+  "libsamplerate": {
+    "bugs": ["836014"]
+  },
+  "libx11": {
+    "remark": "Temporary defer cache variable patches"
+  },
+  "libxext": {
+    "remark": "Temporary defer cache variable patches"
+  },
+  "libxi": {
+    "remark": "Temporary defer cache variable patches"
+  },
+  "libxinerama": {
+    "bugs": ["861073"],
+    "remark": "Temporary defer cache variable patches",
+    "submitted": true
+  },
+  "libxrandr": {
+    "remark": "Temporary defer cache variable patches"
+  },
+  "libxrender": {
+    "remark": "Temporary defer cache variable patches"
+  },
+  "libxres": {
+    "remark": "Temporary defer cache variable patches"
+  },
+  "libxss": {
+    "remark": "Temporary defer cache variable patches"
+  },
+  "libxt": {
+    "remark": "Temporary defer cache variable patches"
+  },
+  "libxv": {
+    "remark": "Temporary defer cache variable patches"
+  },
+  "libxvmc": {
+    "remark": "Temporary defer cache variable patches"
+  },
+  "libxxf86vm": {
+    "remark": "Temporary defer cache variable patches"
+  },
+  "make-dfsg": {
+    "remark": "Need build with profile \"nocheck\""
+  },
+  "mbw": {
+    "bugs": ["916488"]
+  },
+  "nas": {
+    "bugs": ["922367"],
+    "submitted": true
+  },
+  "nasm": {
+    "bugs": ["850933"]
+  },
+  "nss": {
+    "remark": "Need build with profile \"cross\""
+  },
+  "openssn": {
+    "bugs": ["914724"]
+  },
+  "pcal": {
+    "bugs": ["900740"],
+    "submitted": true
+  },
+  "socket": {
+    "bugs": ["922373"],
+    "submitted": true
+  },
+  "systemd": {
+    "remark": "Need build with profile \"nocheck\""
+  },
+  "unadf": {
+    "bugs": ["915167"]
+  },
+  "usb-modeswitch": {
+    "bugs": ["836018"]
+  },
+  "vlan": {
+    "bugs": ["794156"]
+  },
+  "vpnc": {
+    "remark": "Need build with profile \"cross\""
+  },
+  "vsftpd": {
+    "bugs": ["850471"]
+  },
+  "wayland": {
+    "bugs": ["836687"]
+  },
+  "xfsprogs": {
+    "bugs": ["794158"]
+  },
+  "zip": {
+    "bugs": ["836792"]
+  }
+}
+
