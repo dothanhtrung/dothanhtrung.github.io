@@ -57,8 +57,8 @@ func main() {
 		"<th class=\"sorttable_nosort\"></th>" +
 		"<th>Source Name</th>" +
 		"<th class=\"sorttable_nosort\">Version</th>" +
-		"<th width=\"80\">Status</th>" +
-		"<th width=\"150\">Build At</th>" +
+		"<th>Status</th>" +
+		"<th>Build At</th>" +
 		"<th>Remark</th></tr>\n"
 
 	successCount := 0
@@ -69,7 +69,7 @@ func main() {
 		version := pkgInfo[1]
 		status := pkgInfo[2]
 		t, _ := time.Parse(time.RFC3339, pkgInfo[3])
-		timestmp := t.Format("Jan _2, 2006 3:04PM")
+		timestmp := t.Format("Jan _2, 2006")
 		customTimestmp := t.Format("20060102150405")
 
 		bgcolor := "#df2029"
@@ -88,13 +88,12 @@ func main() {
 		if remarks[name] != nil {
 			remark = remarks[name].(string)
 		}
-		if _, err := os.Stat("./debian-cross-patches/"+name); !os.IsNotExist(err) {
+		if _, err := os.Stat("./debian-cross-patches/" + name); !os.IsNotExist(err) {
 			if remark != "" {
 				remark += "</br>"
 			}
 			remark += "\n (<a href=\"" + debian_cross_patches + name + "\">debian-cross-patches</a>)"
 		}
-
 
 		logFile := name + "_" + version + "_armhf.build"
 		row := "<tr bgcolor=\"" + bgcolor + "\"><td></td>\n" +
