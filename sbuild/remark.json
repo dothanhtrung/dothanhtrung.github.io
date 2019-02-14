@@ -10,6 +10,7 @@
   "coreutils": "Bug <a href=\"https://bugs.debian.org/721358\">#721358</a>",
   "dsh": "Bug <a href=\"https://bugs.debian.org/869478\">#869478</a>",
   "e2fsprogs": "Success if disable parallel build",
+  "epcr": "Bug <a href=\"https://bugs.debian.org/922192\">#922192</a>",
   "flex": "Bug <a href=\"https://bugs.debian.org/833146\">#833146</a>",
   "gdbm": "Success if disable parallel build",
   "guile-2.0": "Need build with profile \"cross\"",
