@@ -3,6 +3,10 @@
     "bugs": ["921048"],
     "submitted": true
   },
+  "aaphoto": {
+    "bugs": ["922937"],
+    "submitted": true
+  },
   "acm": {
     "remark": "Cannot build parallel. Compile requires to run dis/disgen which is a cross-built binary."
   },
