@@ -5,9 +5,13 @@ agg
 and
 between
 coreutils
+delly
+efp
+elph
 epcr
 gip
 ht
+infnoise
 leaktracer
 libdmx
 libfs
@@ -36,5 +40,7 @@ rc
 remind
 rtkit
 socket
+titantools
 unadf
+wiliki
 wing

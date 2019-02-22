@@ -16,6 +16,9 @@
   "and": {
     "bugs": ["915441"]
   },
+  "angband": {
+    "bugs": ["894114"]
+  },
   "autogen": {
     "remark": "Need build with profile \"cross\""
   },
