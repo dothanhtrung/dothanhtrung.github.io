@@ -3,6 +3,7 @@ aaphoto
 acedb
 agg
 and
+angband-audio
 between
 coreutils
 delly
