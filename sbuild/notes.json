@@ -36,6 +36,10 @@
     "bugs": ["721358"],
     "submitted": true
   },
+  "delly": {
+    "bugs": ["924529"],
+    "submitted": true
+  },
   "dsh": {
     "bugs": ["869478"]
   },
@@ -132,6 +136,9 @@
   },
   "openssn": {
     "bugs": ["914724"]
+  },
+  "pal": {
+    "bugs": ["923426"]
   },
   "pcal": {
     "bugs": ["900740"],
