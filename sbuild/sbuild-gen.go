@@ -34,6 +34,7 @@ const (
 	white                = "#ecf0f1"
 	green                = "#2ecc71"
 	orange               = "#e67e22"
+	blue                 = "#86c1b9"
 )
 
 func genDCB(notes map[string]interface{}) {
@@ -48,13 +49,16 @@ func genDCB(notes map[string]interface{}) {
 	html += "</head><body>\n"
 	html += "<h1>debian-cross-patches summary</h1>\n"
 	html += "<h3><a href=\"https://github.com/meta-debian/debian-cross-patches\">Repository</a></h3>"
-	html += "Packages, which have bug report but have not been submitted, mean they have been fixed by others."
+	html += "<b>Submitted</b> : patch has been submitted by meta-debian team.<br/>"
+	html += "<b>Accepted</b>  : patch has been accepted by Debian.<br/>"
+	html += "<br/><i>Packages, which have bug report but have not been submitted, mean they have been fixed by others.</i>"
 	html += "<br/>"
 	html += "<br/><table class=\"sortable\" id=\"sortable\">\n"
 	html += "<tr bgcolor=\"#bdc3c7\">" +
 		"<th class=\"sorttable_nosort\"></th>" +
 		"<th>Source Name</th>" +
 		"<th>Submitted</th>" +
+		"<th>Accepted</th>" +
 		"<th>Debian Bug</th>" +
 		"<th>Remark</th></tr>\n"
 
@@ -64,6 +68,7 @@ func genDCB(notes map[string]interface{}) {
 		remark := ""
 		bugs := ""
 		submitted := ""
+		accepted := ""
 		bgcolor := white
 		if notes[pkg] != nil {
 			data := notes[pkg].(map[string]interface{})
@@ -88,14 +93,22 @@ func genDCB(notes map[string]interface{}) {
 			if data["submitted"] != nil {
 				if data["submitted"].(bool) {
 					submitted = "Yes"
-					bgcolor = green
+					bgcolor = blue
+				}
+				if data["accepted"] != nil {
+					if data["accepted"].(bool) {
+						accepted = "Yes"
+						bgcolor = green
+					}
 				}
 			}
+
 		}
 
 		html += "<tr bgcolor=\"" + bgcolor + "\"><td></td>\n" +
 			"<td>" + pkg + "</td>\n" +
 			"<td>" + submitted + "</td>\n" +
+			"<td>" + accepted + "</td>\n" +
 			"<td>" + bugs + "</td>\n" +
 			"<td>" + remark + "</td>\n" +
 			"</tr>"

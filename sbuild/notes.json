@@ -1,7 +1,8 @@
 {
   "9menu": {
     "bugs": ["921048"],
-    "submitted": true
+    "submitted": true,
+    "accepted": true
   },
   "aaphoto": {
     "bugs": ["922937"],
@@ -38,7 +39,8 @@
   },
   "delly": {
     "bugs": ["924529"],
-    "submitted": true
+    "submitted": true,
+    "accepted": true
   },
   "dsh": {
     "bugs": ["869478"]
@@ -48,7 +50,8 @@
   },
   "epcr": {
     "bugs": ["922192"],
-    "submitted": true
+    "submitted": true,
+    "accepted": true
   },
   "flex": {
     "bugs": ["833146"]
@@ -126,7 +129,8 @@
   },
   "nas": {
     "bugs": ["922367"],
-    "submitted": true
+    "submitted": true,
+    "accepted": true
   },
   "nasm": {
     "bugs": ["850933"]
