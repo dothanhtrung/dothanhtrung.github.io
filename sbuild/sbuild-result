@@ -48,7 +48,7 @@ aiksaurus 1.2.1+dev-0.12-6.3 successful 2019-03-01T04:09:04Z
 airspy-host 1.0.9-3 successful 2019-03-01T04:09:57Z
 airstrike 0.99+1.0pre6a-9 successful 2019-03-01T04:10:43Z
 aisleriot 3.22.7-2 given-back 2019-03-01T04:11:00Z
-akonadi 18.08.3-4 attempted 2019-03-01T04:13:32Z
+akonadi 18.08.3-5 attempted 2019-05-07T10:49:48Z
 akonadi4 1.13.0-12 attempted 2019-03-01T04:14:25Z
 akonadi-calendar 18.08.3-1 attempted 2019-03-01T04:16:11Z
 akonadi-contacts 18.08.3-1 attempted 2019-03-01T04:17:42Z
@@ -122,7 +122,7 @@ appmenu-qt 0.2.6-2 attempted 2019-03-01T05:13:17Z
 appstream 0.12.6-1 given-back 2019-03-11T07:59:48Z
 appstream-glib 0.7.14-1 given-back 2019-03-01T05:14:12Z
 apr 1.6.5-1 successful 2019-03-01T05:16:03Z
-apr-util 1.6.1-3 attempted 2019-03-01T05:17:11Z
+apr-util 1.6.1-4 attempted 2019-05-07T10:51:16Z
 apt 1.8.0~rc4 given-back 2019-03-11T08:00:35Z
 apt-build 0.12.47 successful 2019-03-01T05:18:26Z
 apt-cacher-ng 3.2-1 successful 2019-03-01T05:19:59Z
@@ -150,7 +150,7 @@ ark 18.08.3-1 attempted 2019-03-01T05:38:04Z
 armadillo 9.200.7+dfsg-1 successful 2019-03-01T05:38:49Z
 armagetronad 0.2.8.3.4-2 successful 2019-03-01T05:40:09Z
 arora 0.11.0+qt5+git2014-04-06-1 attempted 2019-03-01T05:41:26Z
-arpack 3.7.0-1 given-back 2019-03-01T05:41:35Z
+arpack 3.7.0-2 given-back 2019-05-07T10:51:24Z
 arpalert 2.0.12-3 successful 2019-03-01T05:42:45Z
 arp-scan 1.9.5-1 successful 2019-03-01T05:43:22Z
 arptables 0.0.4+snapshot20181021-4 successful 2019-04-20T08:05:24Z
@@ -173,7 +173,7 @@ asylum 0.3.2-3 attempted 2019-03-01T05:56:40Z
 asymptote 2.47-2 given-back 2019-03-01T05:56:48Z
 at 3.1.23-1 successful 2019-03-01T05:57:58Z
 atanks 6.5~dfsg-3 successful 2019-03-01T05:58:34Z
-atftp 0.7.git20120829-3 attempted 2019-03-01T05:59:07Z
+atftp 0.7.git20120829-3.1 attempted 2019-05-07T10:52:41Z
 atinject-jsr330 1.0+ds1-5 given-back 2019-03-01T05:59:14Z
 atk1.0 2.30.0-2 given-back 2019-03-01T05:59:59Z
 atkmm1.6 2.28.0-2 successful 2019-03-01T06:01:37Z
@@ -194,10 +194,10 @@ audacious-plugins 3.10.1-1 attempted 2019-03-11T08:12:11Z
 audacity 2.2.2-1 attempted 2019-03-01T06:17:00Z
 audiocd-kio 17.08.3-1 attempted 2019-03-01T06:18:44Z
 audiofile 0.3.6-5 successful 2019-04-06T08:06:43Z
-audit 2.8.4-2 successful 2019-03-01T06:21:47Z
+audit 2.8.4-3 successful 2019-05-07T10:55:41Z
 aufs 4.19+20190211-1 skipped 2019-03-11T08:12:22Z
 aufs-tools 4.14+20190211-1 successful 2019-03-11T08:13:01Z
-augeas 1.11.0-3 successful 2019-03-01T06:24:39Z
+augeas 1.12.0-1 successful 2019-05-07T10:58:13Z
 aumix 2.9.1-6 successful 2019-03-01T06:25:59Z
 authbind 2.1.2 successful 2019-03-01T06:26:36Z
 autoclass 3.3.6.dfsg.1-1 attempted 2019-03-01T06:27:05Z
@@ -263,7 +263,7 @@ bibutils 6.2-1 attempted 2019-03-01T07:25:55Z
 biff 0.17.pre20000412-5.1 successful 2019-03-01T07:26:26Z
 bijiben 3.30.3-2 successful 2019-03-01T07:28:01Z
 billard-gl 1.75-17 successful 2019-03-01T07:28:52Z
-bind9 9.11.5.P4+dfsg-2 given-back 2019-04-06T08:09:37Z
+bind9 9.11.5.P4+dfsg-5 given-back 2019-05-07T10:58:46Z
 bindfs 1.13.10-1 successful 2019-03-01T07:30:16Z
 binfmt-support 2.2.0-2 successful 2019-03-01T07:31:03Z
 bing 1.3.5-2 successful 2019-03-01T07:31:32Z
@@ -278,7 +278,7 @@ bisonc++ 6.02.05-1 attempted 2019-03-11T08:25:36Z
 blackbird-gtk-theme 0.4+20160704~ab4a30e-1 skipped 2019-03-01T07:43:44Z
 blackbox 0.70.1-36 successful 2019-03-01T07:44:42Z
 black-box 1.4.8-4 successful 2019-03-01T07:45:41Z
-blender 2.79.b+dfsg0-6 given-back 2019-03-01T07:45:59Z
+blender 2.79.b+dfsg0-7 given-back 2019-05-07T10:59:34Z
 blepvco 0.1.0-3 attempted 2019-03-01T07:47:00Z
 blinker 1.4+dfsg1-0.2 given-back 2019-03-01T07:47:07Z
 bliss 0.73-2 attempted 2019-03-01T07:48:28Z
@@ -310,7 +310,7 @@ bonnie++ 1.98 attempted 2019-03-01T08:10:44Z
 boost1.62 1.62.0+dfsg-10 given-back 2019-03-01T08:10:51Z
 boost1.67 1.67.0-13 given-back 2019-03-01T08:11:37Z
 boost-defaults 1.67.0.1 successful 2019-03-01T08:12:43Z
-boot 1.3-20-2 given-back 2019-03-01T08:13:04Z
+boot 1.3-22-1 given-back 2019-05-07T11:00:21Z
 bootpc 0.64-7 attempted 2019-03-01T08:14:05Z
 bouncycastle 1.60-1 given-back 2019-03-01T08:14:12Z
 boxes 1.3-1 successful 2019-03-11T08:27:20Z
@@ -391,7 +391,7 @@ cba 0.3.6-4.1 attempted 2019-03-01T09:26:10Z
 c-blosc 1.15.1+ds1-1 successful 2019-03-01T09:26:58Z
 cbm 0.2-1 successful 2019-03-01T09:27:42Z
 cbmplugs 1.2.2-1 attempted 2019-03-01T09:28:36Z
-ccache 3.6-1 successful 2019-03-01T09:29:09Z
+ccache 3.7.1-1 successful 2019-05-07T11:01:38Z
 cccc 3.1.4-11 attempted 2019-03-01T09:29:37Z
 cccd 0.3beta4-7.1 attempted 2019-03-01T09:30:16Z
 ccd2iso 0.3-7 successful 2019-03-01T09:30:45Z
@@ -445,7 +445,7 @@ chmlib 0.40a-5 successful 2019-03-01T10:20:33Z
 chntpw 1.0-1.1 attempted 2019-03-01T10:21:08Z
 chromaprint 1.4.3-3 successful 2019-03-01T10:22:10Z
 chrome-gnome-shell 10.1-5 given-back 2019-03-11T02:55:18Z
-chromium 73.0.3683.75-1 given-back 2019-03-23T08:17:42Z
+chromium 74.0.3729.108-1 given-back 2019-05-07T11:02:05Z
 chrony 3.4-4 successful 2019-03-23T08:18:57Z
 chrootuid 1.3-6 attempted 2019-03-01T10:26:59Z
 chrpath 0.16-2 successful 2019-03-01T10:27:25Z
@@ -548,7 +548,7 @@ cortina 1.1.1-1 attempted 2019-03-01T12:23:25Z
 covered 0.7.10-3 successful 2019-03-01T12:25:00Z
 cowdancer 0.88 successful 2019-03-01T12:25:46Z
 cowsay 3.03+dfsg2-6 skipped 2019-03-01T12:26:00Z
-cpio 2.12+dfsg-6 successful 2019-03-01T12:27:17Z
+cpio 2.12+dfsg-9 successful 2019-05-07T11:03:47Z
 cpipe 3.0.1-1 attempted 2019-03-01T12:27:46Z
 cpl 7.1-3 attempted 2019-03-01T12:29:06Z
 cppunit 1.14.0-3 successful 2019-03-01T12:30:08Z
@@ -567,12 +567,12 @@ crm114 20100106-9 successful 2019-03-01T12:40:16Z
 cron 3.0pl1-133 successful 2019-03-16T08:09:53Z
 cronolog 1.6.2+rpk-2 successful 2019-03-01T12:41:26Z
 crossfire-client 1.73.0-1 attempted 2019-03-01T12:42:31Z
-cross-toolchain-base 33 given-back 2019-03-11T08:58:12Z
-cross-toolchain-base-ports 27 given-back 2019-03-11T08:58:57Z
+cross-toolchain-base 35 given-back 2019-05-07T11:04:12Z
+cross-toolchain-base-ports 29 given-back 2019-05-07T11:04:59Z
 crunch 3.6-2 successful 2019-03-01T12:44:32Z
 cryptcat 20031202-4 attempted 2019-03-01T12:44:58Z
 cryptmount 5.3.1-1 successful 2019-03-01T12:45:37Z
-cryptsetup 2.1.0-2 successful 2019-03-11T09:00:35Z
+cryptsetup 2.1.0-3 successful 2019-05-07T11:06:56Z
 crystalhd 0.0~git20110715.fdd2f19-13 skipped 2019-03-01T12:47:06Z
 cscope 15.9-1 successful 2019-03-01T12:48:07Z
 csh 20110502-4 attempted 2019-03-01T12:48:34Z
@@ -590,7 +590,7 @@ cue2toc 0.4-5 successful 2019-03-01T12:58:32Z
 cuetools 1.4.0-2 successful 2019-03-01T12:59:09Z
 cultivation 9+dfsg1-2 attempted 2019-03-01T12:59:49Z
 cunit 2.1-3-dfsg-2 successful 2019-03-01T13:00:48Z
-cups 2.2.10-5 successful 2019-03-30T08:17:28Z
+cups 2.2.10-6 successful 2019-05-07T11:09:30Z
 cups-bjnp 2.0.1-1 successful 2019-03-01T13:03:50Z
 cups-filters 1.21.6-5 successful 2019-04-13T08:13:01Z
 cups-pdf 3.0.1-5 successful 2019-03-01T13:06:07Z
@@ -647,7 +647,7 @@ debconf-kde 1.0.3-1 attempted 2019-03-01T13:53:13Z
 debdelta 0.62 attempted 2019-03-01T13:53:34Z
 debfoster 2.7-2.1 successful 2019-03-01T13:54:00Z
 debhelper 12.1.1 skipped 2019-03-11T09:22:29Z
-debian-archive-keyring 2018.1 given-back 2019-03-01T13:54:28Z
+debian-archive-keyring 2019.1 given-back 2019-05-07T11:10:15Z
 debian-edu 2.10.47 given-back 2019-03-16T08:10:59Z
 debian-faq 9.0 skipped 2019-03-01T13:56:01Z
 debian-goodies 0.84 skipped 2019-03-01T13:56:18Z
@@ -714,7 +714,7 @@ discover 2.1.2-8 attempted 2019-03-01T14:45:19Z
 discover-data 2.2013.01.11 skipped 2019-03-01T14:45:25Z
 disktype 9-8 successful 2019-03-01T14:45:56Z
 distro-info 0.21 given-back 2019-03-01T14:46:09Z
-distro-info-data 0.39 given-back 2019-03-01T14:46:55Z
+distro-info-data 0.40 given-back 2019-05-07T11:11:04Z
 djtools 1.2.7 attempted 2019-03-01T14:47:59Z
 djview4 4.11-1 attempted 2019-03-01T14:49:20Z
 djvulibre 3.5.27.1-10 successful 2019-03-01T14:50:51Z
@@ -753,7 +753,7 @@ dosfstools 4.1-2 successful 2019-03-01T15:15:02Z
 dotconf 1.3-0.3 successful 2019-03-01T15:15:42Z
 double-conversion 3.1.0-3 successful 2019-03-11T09:50:24Z
 dov4l 0.9+repack-1 successful 2019-03-01T15:16:47Z
-dovecot 2.3.4.1-4 attempted 2019-04-20T08:10:57Z
+dovecot 2.3.4.1-5 attempted 2019-05-07T11:13:27Z
 dovecot-antispam 2.0+20171229-1 successful 2019-03-01T15:18:28Z
 doxia 1.7-2 given-back 2019-03-01T15:18:40Z
 doxygen 1.8.13-10 given-back 2019-03-01T15:19:27Z
@@ -854,7 +854,7 @@ eog 3.28.4-2 given-back 2019-03-01T16:41:20Z
 eom 1.20.2-2 given-back 2019-03-23T08:24:05Z
 epcr 2.3.12-1-7 successful 2019-03-01T16:43:20Z
 epiphany 0.7.0+0-5 successful 2019-03-01T16:44:10Z
-epiphany-browser 3.32.0-1 given-back 2019-03-16T08:15:38Z
+epiphany-browser 3.32.1.2-2 given-back 2019-05-07T11:13:35Z
 epson-inkjet-printer-escpr 1.6.33-1 successful 2019-03-01T16:45:59Z
 epstool 3.09-1 successful 2019-03-01T16:46:32Z
 eq10q 2.2~repack0-2.1 successful 2019-03-01T16:47:50Z
@@ -873,7 +873,7 @@ eterm 0.9.6-6 successful 2019-03-11T10:19:24Z
 etherwake 1.09-4 successful 2019-03-01T16:59:16Z
 ethstatus 0.4.9 successful 2019-03-01T16:59:46Z
 ethtool 4.19-1 successful 2019-03-01T17:00:22Z
-etw 3.6+svn162-4 attempted 2019-03-01T17:01:12Z
+etw 3.6+svn162-5 attempted 2019-05-07T11:16:22Z
 euler 1.61.0-11 successful 2019-03-01T17:02:12Z
 evince 3.30.2-3 given-back 2019-03-01T17:02:29Z
 evolution 3.30.5-1 given-back 2019-03-01T17:03:18Z
@@ -1000,7 +1000,7 @@ fontforge 20170731~dfsg-1 given-back 2019-03-01T18:57:55Z
 fontforge-extras 0.3-4 attempted 2019-03-01T18:58:57Z
 fonts-adf 0.20110505-3 skipped 2019-03-01T18:59:04Z
 fonts-android 6.0.1r16-1.1 skipped 2019-03-01T18:59:20Z
-fonts-arphic-bkai00mp 2.10-18 skipped 2019-03-01T18:59:37Z
+fonts-arphic-bkai00mp 2.10-19 skipped 2019-05-07T11:16:33Z
 fonts-arphic-bsmi00lp 2.10-17 skipped 2019-03-01T19:00:01Z
 fonts-arphic-gbsn00lp 2.11-15 skipped 2019-03-01T19:00:25Z
 fonts-arphic-gkai00mp 2.11-15 skipped 2019-03-01T19:00:41Z
@@ -1024,7 +1024,7 @@ fonts-gfs-porson 1.1-6 skipped 2019-03-01T19:06:06Z
 fonts-gfs-solomos 1.1-5 skipped 2019-03-01T19:06:22Z
 fonts-hack 3.003-2 given-back 2019-03-01T19:06:39Z
 fonts-hosny-amiri 0.111-2 skipped 2019-03-01T19:07:28Z
-fonts-ipaexfont 00301-5 skipped 2019-03-01T19:07:45Z
+fonts-ipaexfont 00401-1 skipped 2019-05-07T11:17:16Z
 fonts-ipafont 00303-18 skipped 2019-03-01T19:08:01Z
 fonts-junicode 1.001-2 given-back 2019-03-01T19:08:19Z
 fonts-lato 2.0-2 skipped 2019-03-01T19:09:05Z
@@ -1089,11 +1089,11 @@ freehep-util 2.0.2-7 given-back 2019-03-01T19:51:52Z
 freeimage 3.18.0+ds2-1 successful 2019-03-01T19:53:18Z
 freeipmi 1.6.3-1.1 attempted 2019-03-11T10:39:18Z
 freepats 20060219-1 skipped 2019-03-01T19:54:04Z
-freeradius 3.0.17+dfsg-1 given-back 2019-03-01T19:54:21Z
+freeradius 3.0.17+dfsg-1.1 given-back 2019-05-07T11:17:40Z
 freerdp 1.1.0~git20140921.1.440916e+dfsg1-15 attempted 2019-03-01T19:56:09Z
 freerdp2 2.0.0~git20190204.1.2693389a+dfsg1-1 attempted 2019-03-01T19:57:46Z
 freesweep 1.0.1-1 successful 2019-03-01T19:58:23Z
-freetds 1.00.104-1 successful 2019-03-01T20:00:02Z
+freetds 1.1.6-1 successful 2019-05-07T11:20:24Z
 freetype 2.9.1-3 successful 2019-03-01T20:01:06Z
 freexl 1.0.5-3 successful 2019-03-01T20:01:59Z
 frei0r 1.6.1-2 given-back 2019-03-01T20:02:14Z
@@ -1131,7 +1131,7 @@ gadmin-proftpd 0.4.2-1 attempted 2019-03-01T20:27:49Z
 gadmin-rsync 0.1.7-1 successful 2019-03-01T20:28:54Z
 gadmin-samba 0.2.9-3 successful 2019-03-01T20:30:28Z
 galculator 2.1.4-1 given-back 2019-03-01T20:30:46Z
-galera-3 25.3.25-2 given-back 2019-04-06T08:19:12Z
+galera-3 25.3.26-1 given-back 2019-05-07T11:21:03Z
 galib 2.4.7-4 successful 2019-03-01T20:32:48Z
 gambas3 3.12.2-1 given-back 2019-03-01T20:33:02Z
 game-music-emu 0.6.2-1 successful 2019-03-01T20:34:26Z
@@ -1151,10 +1151,10 @@ gavl 1.4.0-5 successful 2019-03-01T20:46:38Z
 gawk 4.2.1+dfsg-1 successful 2019-03-01T20:48:09Z
 gcab 1.2-2 given-back 2019-03-01T20:48:29Z
 gcal 4.1-3 successful 2019-03-01T20:50:44Z
-gcc-7 7.4.0-6 given-back 2019-03-30T08:24:56Z
-gcc-8 8.3.0-6 attempted 2019-04-13T08:20:38Z
-gcc-8-cross 27 given-back 2019-03-30T08:29:44Z
-gcc-8-cross-ports 20 given-back 2019-03-30T08:30:31Z
+gcc-7 7.4.0-6 given-back 2019-05-07T11:21:55Z
+gcc-8 8.3.0-7 attempted 2019-05-07T11:26:32Z
+gcc-8-cross 28 given-back 2019-05-07T11:26:44Z
+gcc-8-cross-ports 21 given-back 2019-05-07T11:27:38Z
 gcc-avr 5.4.0+Atmel3.6.1-2 attempted 2019-03-01T20:57:02Z
 gcc-defaults 1.181 successful 2019-03-11T10:48:49Z
 gcc-mingw-w64 21.2 given-back 2019-04-20T08:12:49Z
@@ -1206,7 +1206,7 @@ gflags 2.2.2-1 successful 2019-03-01T21:51:25Z
 gftp 2.0.19-5 attempted 2019-03-01T21:52:20Z
 ggobi 2.1.11-2 given-back 2019-03-04T03:39:06Z
 ghc 8.4.4+dfsg1-2 attempted 2019-03-11T10:57:03Z
-ghostscript 9.27~dfsg-1 attempted 2019-04-06T08:25:00Z
+ghostscript 9.27~dfsg-2 attempted 2019-05-07T11:29:55Z
 giblib 1.2.4-12 successful 2019-03-04T03:43:42Z
 gif2png 2.5.8-1 attempted 2019-03-04T03:44:28Z
 giflib 5.1.4-3 successful 2019-03-04T03:45:19Z
@@ -1250,7 +1250,7 @@ glew 2.1.0-4 successful 2019-03-04T04:38:20Z
 glfw3 3.2.1-1 successful 2019-03-04T04:41:41Z
 glhack 1.2-4 attempted 2019-03-04T04:43:35Z
 glib2.0 2.58.3-1 successful 2019-03-04T04:46:01Z
-glibc 2.28-8 given-back 2019-03-11T10:57:13Z
+glibc 2.28-10 given-back 2019-05-07T11:30:07Z
 glibmm2.4 2.58.0-2 successful 2019-03-04T04:49:26Z
 glib-networking 2.58.0-2 successful 2019-03-04T04:50:17Z
 gliv 1.9.7-2 successful 2019-03-04T04:52:07Z
@@ -1312,7 +1312,7 @@ gnome-screensaver 3.6.1-10 attempted 2019-03-04T08:50:01Z
 gnome-screenshot 3.30.0-2 successful 2019-03-04T08:51:10Z
 gnome-session 3.30.1-2 successful 2019-03-04T08:52:29Z
 gnome-settings-daemon 3.30.2-3 attempted 2019-03-04T08:54:02Z
-gnome-shell 3.30.2-7 given-back 2019-04-20T08:14:23Z
+gnome-shell 3.30.2-9 given-back 2019-05-07T11:31:00Z
 gnome-shell-extensions 3.30.1-1 skipped 2019-03-04T08:55:07Z
 gnome-shell-extension-weather 0~20170402.git34506a6-2 skipped 2019-03-04T08:55:28Z
 gnome-software 3.30.6-5 successful 2019-03-11T11:05:27Z
@@ -1348,7 +1348,7 @@ gnupg2 2.2.13-1 successful 2019-03-11T11:10:40Z
 gnuplot 5.2.6+dfsg1-1 given-back 2019-03-04T09:38:04Z
 gnuradio 3.7.13.4-4 given-back 2019-03-04T09:38:52Z
 gnushogi 1.4.2-6 attempted 2019-03-04T09:40:10Z
-gnu-smalltalk 3.2.5-1.2 attempted 2019-03-04T09:42:45Z
+gnu-smalltalk 3.2.5-1.3 attempted 2019-05-07T11:36:51Z
 gnustep-back 0.27.0-2 given-back 2019-03-04T09:42:56Z
 gnustep-base 1.26.0-4 given-back 2019-03-04T09:43:44Z
 gnustep-gui 0.27.0-5 given-back 2019-03-11T11:11:19Z
@@ -1392,7 +1392,7 @@ gramofile 1.6-11 successful 2019-03-04T10:26:25Z
 grantlee 0.4.0-4 attempted 2019-03-04T10:27:15Z
 grantlee5 5.1.0-2.1 given-back 2019-04-20T08:16:11Z
 grantlee-editor 18.08.3-1 attempted 2019-03-04T10:29:54Z
-graphicsmagick 1.4~hg15968-1 given-back 2019-04-20T08:16:56Z
+graphicsmagick 1.4~hg15978-1 given-back 2019-05-07T11:42:16Z
 graphite2 1.3.13-7 given-back 2019-03-04T10:31:03Z
 graphviz 2.40.1-6 given-back 2019-04-13T08:22:07Z
 gravitation 3+dfsg1-5 attempted 2019-03-04T10:33:06Z
@@ -1545,7 +1545,7 @@ htmldoc 1.9.3-1 successful 2019-03-04T13:07:31Z
 html-xml-utils 7.7-1 successful 2019-03-04T13:08:27Z
 htop 2.2.0-1 successful 2019-03-04T13:09:13Z
 htsengine 1.10-3 successful 2019-03-04T13:09:57Z
-htslib 1.9-10 attempted 2019-03-04T13:11:26Z
+htslib 1.9-11 attempted 2019-05-07T11:45:12Z
 httpcomponents-client 4.5.7-1 given-back 2019-03-04T13:11:33Z
 httpcomponents-core 4.4.11-1 given-back 2019-03-04T13:12:21Z
 httperf 0.9.0-9 successful 2019-03-04T13:13:41Z
@@ -1644,7 +1644,7 @@ iperf3 3.6-2 successful 2019-03-04T14:24:29Z
 ipheth 1.0-5 attempted 2019-03-04T14:25:04Z
 iproute2 4.20.0-2 successful 2019-03-04T14:25:50Z
 ipsec-tools 0.8.2+20140711-12 successful 2019-03-04T14:27:00Z
-ipset 6.38-1 successful 2019-03-04T14:27:54Z
+ipset 6.38-1.1 successful 2019-05-07T11:46:11Z
 ipsvd 1.0.0-3.1 successful 2019-03-04T14:28:38Z
 iptables 1.8.2-4 successful 2019-03-11T11:35:30Z
 iptables-persistent 1.0.11 skipped 2019-03-04T14:30:01Z
@@ -1695,7 +1695,7 @@ java-common 0.71 successful 2019-03-04T15:08:11Z
 javahelp2 2.0.05.ds1-9 given-back 2019-03-04T15:08:23Z
 javamail 1.6.2-1 given-back 2019-03-04T15:09:11Z
 javascript-common 11 given-back 2019-03-04T15:09:56Z
-javatools 0.72.8 given-back 2019-04-13T08:22:53Z
+javatools 0.72.2 given-back 2019-05-07T11:46:39Z
 java-wrappers 0.3 skipped 2019-03-04T15:11:28Z
 jaxb 2.3.0.1-8 given-back 2019-04-06T08:36:00Z
 jbig2dec 0.16-1 given-back 2019-04-13T08:23:40Z
@@ -1833,7 +1833,7 @@ khotkeys 5.14.5-1 given-back 2019-03-04T17:34:41Z
 khronos-opencl-headers 2.2~2019.01.17-g49f07d3-1 skipped 2019-03-04T17:35:30Z
 khtml 5.54.0-1 attempted 2019-03-04T17:37:07Z
 ki18n 5.54.0-1 given-back 2019-03-04T17:37:20Z
-kicad 5.1.0+dfsg1-1 given-back 2019-03-23T08:37:53Z
+kicad 5.1.2+dfsg1-1 given-back 2019-05-07T11:47:38Z
 kiconthemes 5.54.0-1 attempted 2019-03-04T17:40:21Z
 kidentitymanagement 18.08.3-2 attempted 2019-03-04T17:41:37Z
 kidletime 5.54.0-1 attempted 2019-03-04T17:42:44Z
@@ -2163,7 +2163,7 @@ libfile-homedir-perl 1.004-1 skipped 2019-03-04T22:33:16Z
 libfile-listing-perl 6.04-1 skipped 2019-03-04T22:33:33Z
 libfile-mimeinfo-perl 0.29-1 given-back 2019-03-04T22:33:50Z
 libfile-rsyncp-perl 0.74-2.1 attempted 2019-03-04T22:35:02Z
-libfile-slurp-perl 9999.26-1 skipped 2019-03-11T12:08:47Z
+libfile-slurp-perl 9999.27-1 skipped 2019-05-07T11:48:42Z
 libfile-slurp-tiny-perl 0.004-1 skipped 2019-03-04T22:35:25Z
 libfile-which-perl 1.23-1 skipped 2019-03-04T22:35:41Z
 libfilezilla 0.15.1-1 successful 2019-03-04T22:36:40Z
@@ -2229,7 +2229,7 @@ libgtop2 2.38.0-4 given-back 2019-03-04T23:30:43Z
 libguard-perl 1.023-1 given-back 2019-03-04T23:31:30Z
 libgudev 232-2 given-back 2019-03-04T23:32:18Z
 libguess 1.2-4 successful 2019-03-04T23:33:29Z
-libguestfs 1.40.2-1 given-back 2019-03-04T23:33:43Z
+libguestfs 1.40.2-2 given-back 2019-05-07T11:49:18Z
 libgusb 0.3.0-1 given-back 2019-03-04T23:34:29Z
 libgweather 3.28.3-1 given-back 2019-03-16T08:22:38Z
 libgwenhywfar 4.20.0-9 attempted 2019-03-11T12:13:22Z
@@ -2525,7 +2525,7 @@ libpng1.6 1.6.36-6 successful 2019-04-13T08:30:06Z
 libpod-constants-perl 0.19-1 skipped 2019-03-05T04:10:36Z
 libpod-latex-perl 0.61-2 given-back 2019-03-05T04:10:52Z
 libpod-markdown-perl 3.101000-1 skipped 2019-03-05T04:11:39Z
-libpodofo 0.9.6+dfsg-4 successful 2019-03-05T04:14:00Z
+libpodofo 0.9.6+dfsg-5 successful 2019-05-07T11:54:05Z
 libpod-readme-perl 1.2.3-1 skipped 2019-03-05T04:14:17Z
 libposix-strptime-perl 0.13-1 given-back 2019-03-05T04:14:34Z
 libppd 0.10-7.3 attempted 2019-03-05T04:15:44Z
@@ -2573,7 +2573,7 @@ librevenge 0.0.4-6 successful 2019-03-05T08:28:55Z
 librole-tiny-perl 2.000006-1 skipped 2019-03-05T08:29:10Z
 librpcsecgss 0.19-7 successful 2019-03-05T08:29:58Z
 librsl 1.43-1.2 attempted 2019-03-05T08:30:35Z
-librsvg 2.44.10-2 given-back 2019-04-13T08:31:18Z
+librsvg 2.44.10-2.1 given-back 2019-05-07T11:54:36Z
 librsync 0.9.7-10 successful 2019-03-05T08:32:05Z
 librtas 2.0.0-2 skipped 2019-03-05T08:32:19Z
 libsamplerate 0.1.9-2 successful 2019-03-05T08:33:17Z
@@ -2828,7 +2828,7 @@ link-grammar 5.5.1-6 given-back 2019-03-11T12:42:53Z
 links2 2.18-2 successful 2019-04-13T08:36:05Z
 linphone 3.12.0-3 given-back 2019-03-05T12:15:38Z
 linsmith 0.99.31-1 successful 2019-03-05T12:17:27Z
-lintian 2.9.1 given-back 2019-04-06T08:48:09Z
+lintian 2.9.1 given-back 2019-05-07T11:55:33Z
 linux 4.19.28-2 given-back 2019-03-16T08:24:34Z
 linux86 0.16.17-3.3 successful 2019-03-05T12:20:03Z
 linux-atm 2.5.1-2 given-back 2019-03-05T12:20:19Z
@@ -2895,7 +2895,7 @@ lv 4.51-5 successful 2019-03-05T13:11:40Z
 lvm2 2.03.02-2 given-back 2019-03-05T13:12:52Z
 lxappearance 0.6.3-1 successful 2019-03-05T13:14:28Z
 lxappearance-obconf 0.2.3-1 successful 2019-03-05T13:15:35Z
-lxc 3.1.0+really3.0.3-7 successful 2019-04-13T08:39:34Z
+lxc 3.1.0+really3.0.3-8 successful 2019-05-07T11:58:22Z
 lxde-common 0.99.2-3 skipped 2019-03-05T13:17:42Z
 lxde-icon-theme 0.5.1-2 skipped 2019-03-05T13:17:59Z
 lxde-metapackages 10 skipped 2019-03-05T13:18:15Z
@@ -2985,7 +2985,7 @@ mate-system-monitor 1.20.2-1 successful 2019-03-05T14:38:15Z
 mate-terminal 1.20.2-2 successful 2019-03-05T14:40:25Z
 mate-themes 3.22.18-1 skipped 2019-03-05T14:40:59Z
 mate-user-guide 1.20.2-1 skipped 2019-03-05T14:41:26Z
-mate-utils 1.20.2-2 attempted 2019-03-05T14:43:13Z
+mate-utils 1.20.2-3 attempted 2019-05-07T12:01:58Z
 mathjax 2.7.4+dfsg-1 given-back 2019-03-05T14:43:28Z
 matplotlib2 2.2.3-6 given-back 2019-03-05T14:45:01Z
 matplotlib 3.0.2-2 given-back 2019-03-05T14:44:15Z
@@ -3172,7 +3172,7 @@ musicbrainzngs 0.6-3 given-back 2019-03-05T18:11:12Z
 mustang 3.2.3-3 successful 2019-03-05T18:13:05Z
 mutagen 1.40.0-2 given-back 2019-03-05T18:13:21Z
 mutt 1.10.1-2 attempted 2019-03-05T18:16:14Z
-mutter 3.30.2-6 given-back 2019-03-05T18:16:41Z
+mutter 3.30.2-7 given-back 2019-05-07T12:02:15Z
 mxml 2.12-2 successful 2019-03-05T18:18:21Z
 myodbc 5.1.10-3 attempted 2019-03-05T18:19:09Z
 myrescue 0.9.8-1 successful 2019-03-05T18:19:47Z
@@ -3248,7 +3248,7 @@ nettle 3.4.1-1 successful 2019-03-05T20:21:37Z
 nettoe 1.5.1-2 attempted 2019-03-05T20:23:22Z
 net-tools 1.60+git20180626.aebd88e-1 successful 2019-03-05T20:23:56Z
 network-manager 1.14.6-2 given-back 2019-03-11T13:15:49Z
-network-manager-applet 1.8.20-1 given-back 2019-03-11T13:16:35Z
+network-manager-applet 1.8.20-1.1 given-back 2019-05-07T12:03:02Z
 network-manager-iodine 1.2.0-3 attempted 2019-03-05T20:27:35Z
 network-manager-openconnect 1.2.4-2 given-back 2019-03-11T13:17:21Z
 network-manager-openvpn 1.8.10-1 successful 2019-03-11T13:19:18Z
@@ -3314,9 +3314,9 @@ nunit 2.6.4+dfsg-1 given-back 2019-03-05T22:00:30Z
 nut 2.7.4-8 given-back 2019-03-05T22:01:19Z
 nuttcp 6.1.2-4 successful 2019-03-05T22:02:34Z
 nvi 1.81.6-15 attempted 2019-03-05T22:03:16Z
-nvidia-settings 410.104-2 successful 2019-04-06T08:50:33Z
+nvidia-settings 418.56-1 successful 2019-05-07T12:06:08Z
 nx-libs 3.5.99.19-1 attempted 2019-03-11T13:23:17Z
-nzbget 20.0+dfsg-1 successful 2019-03-05T22:07:34Z
+nzbget 21.0+dfsg-1 successful 2019-05-07T12:07:33Z
 oath-toolkit 2.6.1-1.3 given-back 2019-03-05T22:07:50Z
 obconf 2.0.4+git20150213-2 successful 2019-03-05T22:10:05Z
 obex-data-server 0.4.6-1 successful 2019-03-05T22:11:24Z
@@ -3371,7 +3371,7 @@ openjfx 11.0.2+1-1 given-back 2019-03-07T17:30:37Z
 openjpeg2 2.3.0-2 given-back 2019-03-11T13:26:20Z
 openldap 2.4.47+dfsg-3 attempted 2019-03-07T17:33:04Z
 openlibm 0.6.0+dfsg-2 successful 2019-03-07T17:33:28Z
-openmpi 3.1.3-10 given-back 2019-03-07T17:33:47Z
+openmpi 3.1.3-11 given-back 2019-05-07T12:07:59Z
 openntpd 6.2p3-4 successful 2019-03-07T17:35:04Z
 openocd 0.10.0-5 successful 2019-03-07T17:36:57Z
 openr2 1.3.3-2 successful 2019-03-07T17:37:57Z
@@ -3467,7 +3467,7 @@ pcal 4.11.0-3 attempted 2019-03-07T19:21:36Z
 pcaudiolib 1.1-3 successful 2019-03-07T19:22:13Z
 pcf2bdf 1.05-1 successful 2019-03-07T19:22:57Z
 pciutils 3.5.2-5 attempted 2019-04-13T08:50:17Z
-pcl 1.9.1+dfsg1-3 given-back 2019-03-07T19:23:38Z
+pcl 1.9.1+dfsg1-10 given-back 2019-05-07T12:08:48Z
 pcmanfm 1.3.1-1 successful 2019-03-07T19:25:18Z
 pcmciautils 018-10 successful 2019-03-07T19:26:01Z
 pcre2 10.32-5 successful 2019-03-30T08:56:48Z
@@ -3612,7 +3612,7 @@ postgresql-common 200+deb10u1 skipped 2019-04-13T08:55:18Z
 potrace 1.15-1 successful 2019-03-07T21:34:29Z
 powerdevil 5.14.5-1 given-back 2019-03-07T21:34:50Z
 powermanga 0.93.1-3 successful 2019-03-07T21:36:17Z
-powermgmt-base 1.33 skipped 2019-03-07T21:36:41Z
+powermgmt-base 1.34 skipped 2019-05-07T12:09:37Z
 powerpc-utils 1.3.2-1.1 given-back 2019-03-07T21:36:57Z
 powerstat 0.02.18-1 successful 2019-03-07T21:38:02Z
 powertop 2.8-1 successful 2019-03-07T21:39:59Z
@@ -3710,7 +3710,7 @@ python2.7 2.7.16-2 given-back 2019-04-13T08:57:10Z
 python3-defaults 3.7.3-1 successful 2019-03-30T09:00:14Z
 python3-stdlib-extensions 3.7.3-1 attempted 2019-03-30T09:02:03Z
 python-acme 0.31.0-1 given-back 2019-03-08T03:03:42Z
-python-apsw 3.24.0-r1-1 given-back 2019-03-08T03:05:39Z
+python-apsw 3.27.2-r1-1 given-back 2019-05-07T12:10:00Z
 python-apt 1.8.4 given-back 2019-03-16T08:36:38Z
 python-attrs 18.2.0-1 given-back 2019-03-08T03:08:07Z
 python-augeas 0.5.0-1 given-back 2019-03-08T03:09:38Z
@@ -3807,7 +3807,7 @@ qdox2 2.0~M10-1 given-back 2019-03-08T05:10:43Z
 qelectrotech 0.6.1-1 attempted 2019-03-08T05:12:00Z
 qemu 3.1+dfsg-7 successful 2019-03-30T09:22:05Z
 qfits 6.2.0-8 successful 2019-03-08T05:35:26Z
-qgis 3.4.6+dfsg-1 given-back 2019-04-06T08:56:55Z
+qgis 3.4.7+dfsg-1 given-back 2019-05-07T12:10:47Z
 qgit 2.8-1 attempted 2019-03-08T05:37:04Z
 qgo 2.1~git-20180413-1 attempted 2019-03-11T04:43:33Z
 qhull 2015.2-4 successful 2019-03-08T05:38:48Z
@@ -3820,7 +3820,7 @@ qjson 0.8.1-3 attempted 2019-03-08T05:43:27Z
 qmpdclient 1.2.2+git20151118-1 attempted 2019-03-08T05:44:11Z
 qnapi 0.1.9-1 attempted 2019-03-08T05:44:47Z
 qoauth 2.0.1~1-3 successful 2019-03-08T05:45:42Z
-qpdf 8.4.0-2 attempted 2019-03-08T05:46:28Z
+qpdf 8.4.1-1 attempted 2019-05-07T12:12:05Z
 qpdfview 0.4.17~beta1+git20180709-2 attempted 2019-03-08T05:47:19Z
 qprint 1.1.dfsg.2-2 successful 2019-03-08T05:47:46Z
 qpxtool 0.7.2-4.1 attempted 2019-03-08T05:48:44Z
@@ -3836,7 +3836,7 @@ qt4-x11 4.8.7+dfsg-18 attempted 2019-04-13T09:02:19Z
 qt-assistant-compat 4.6.3-7 attempted 2019-03-08T06:06:58Z
 qt-at-spi 0.4.0-9 attempted 2019-03-08T06:08:42Z
 qtbase-opensource-src 5.11.3+dfsg1-1 attempted 2019-03-16T09:04:36Z
-qtchooser 66-1 successful 2019-03-08T06:12:03Z
+qtchooser 66-2 successful 2019-05-07T12:12:35Z
 qtconnectivity-opensource-src 5.11.3-2 attempted 2019-03-08T06:14:25Z
 qtcreator 4.8.2-1 given-back 2019-03-11T13:56:07Z
 qtcurve 1.9-2 attempted 2019-03-08T06:17:33Z
@@ -3895,10 +3895,10 @@ rarcrack 0.2-1 attempted 2019-03-08T08:45:24Z
 rasqal 0.9.32-1 successful 2019-03-08T08:47:15Z
 rastertosag-gdi 0.1-7 skipped 2019-03-08T08:47:46Z
 razorqt 0.5.2-4 attempted 2019-03-08T08:49:16Z
-r-base 3.5.3.20190419-1 given-back 2019-04-20T08:41:54Z
+r-base 3.6.0-1 given-back 2019-05-07T12:12:57Z
 rc 1.7.4-1 attempted 2019-03-08T08:50:59Z
 r-cran-class 7.3-15-1 given-back 2019-03-08T08:51:06Z
-r-cran-mass 7.3-51.3-1 given-back 2019-04-06T08:57:40Z
+r-cran-mass 7.3-51.4-1 given-back 2019-05-07T12:13:47Z
 r-cran-nnet 7.3-12-2 given-back 2019-03-08T08:53:15Z
 r-cran-spatial 7.3-11-2 given-back 2019-03-08T08:54:08Z
 rcs 5.9.4-5 successful 2019-03-08T09:04:20Z
@@ -3984,12 +3984,12 @@ rubberband 1.8.1-7 successful 2019-03-06T22:02:18Z
 ruby-defaults 2.5.1 successful 2019-03-06T22:02:55Z
 ruby-did-you-mean 1.2.1-1 given-back 2019-03-06T22:03:17Z
 rubygems-integration 1.11 skipped 2019-03-06T22:04:03Z
-ruby-gnome2 3.3.5-1 given-back 2019-03-16T09:08:30Z
+ruby-gnome2 3.3.6-1 given-back 2019-05-07T12:14:34Z
 ruby-json 2.1.0+dfsg-2 given-back 2019-03-06T22:05:07Z
 ruby-minitest 5.11.3-1 given-back 2019-03-06T22:05:54Z
 ruby-net-telnet 0.1.1-2 given-back 2019-03-06T22:06:42Z
 ruby-nokogiri 1.10.0+dfsg1-2 given-back 2019-03-06T22:07:27Z
-ruby-pkg-config 1.3.6-1 given-back 2019-03-16T09:09:15Z
+ruby-pkg-config 1.3.7-1 given-back 2019-05-07T12:15:20Z
 ruby-power-assert 1.1.1-1 given-back 2019-03-06T22:08:59Z
 ruby-test-unit 3.2.8-1 given-back 2019-03-06T22:09:44Z
 ruli 0.33-1.1 attempted 2019-03-06T22:10:47Z
@@ -4116,7 +4116,7 @@ six 1.12.0-1 given-back 2019-03-07T00:08:08Z
 sjeng 11.2-8 attempted 2019-03-07T00:09:09Z
 sketch 0.3.7-11 successful 2019-03-07T00:09:35Z
 sl 5.02-1 successful 2019-03-07T00:10:14Z
-slang2 2.3.2-2 successful 2019-03-07T00:11:28Z
+slang2 2.3.2-3 successful 2019-05-07T12:17:14Z
 slashem 0.0.7E7F3-9 attempted 2019-03-07T00:12:42Z
 sleuthkit 4.6.5-1 successful 2019-03-07T00:14:17Z
 slim 1.3.6-5.1 successful 2019-03-07T00:15:36Z
@@ -4173,7 +4173,7 @@ sound-icons 0.1-6 skipped 2019-03-07T01:05:38Z
 sound-juicer 3.24.0-3 successful 2019-03-07T01:07:21Z
 sound-theme-freedesktop 0.8-2 skipped 2019-03-07T01:07:53Z
 soundtouch 2.1.2+ds1-1 successful 2019-03-07T01:08:45Z
-sox 14.4.2-3 successful 2019-03-07T01:10:14Z
+sox 14.4.2+git20190427-1 successful 2019-05-07T12:19:22Z
 spacefm 1.0.6-4 successful 2019-03-07T01:13:12Z
 spacenavd 0.6-1 attempted 2019-03-07T01:14:06Z
 spamassassin 3.4.2-1 given-back 2019-03-07T01:14:12Z
@@ -4297,7 +4297,7 @@ synthv1 0.8.6-1 attempted 2019-03-07T04:01:49Z
 sysbench 1.0.15+ds-1 given-back 2019-03-07T04:01:58Z
 sysfsutils 2.1.0+repack-5 successful 2019-03-07T04:03:13Z
 syslinux 6.04~git20190206.bf6db5b4+dfsg1-1 given-back 2019-03-11T14:41:19Z
-syslog-ng 3.19.1-3 given-back 2019-03-07T04:04:23Z
+syslog-ng 3.19.1-4 given-back 2019-05-07T12:19:55Z
 sysstat 12.0.3-2 successful 2019-04-13T09:06:15Z
 system-config-printer 1.5.11-4 given-back 2019-03-07T04:06:05Z
 systemd 241-3 successful 2019-04-13T09:13:51Z
@@ -4316,7 +4316,7 @@ talloc 2.1.14-2 given-back 2019-03-07T04:25:35Z
 tamuanova 0.2-4 successful 2019-03-07T04:26:57Z
 tango-icon-theme 0.8.90-7 skipped 2019-03-07T04:27:15Z
 tap-plugins 1.0.0-1 successful 2019-03-07T04:27:52Z
-tar 1.30+dfsg-5 successful 2019-03-07T04:29:42Z
+tar 1.30+dfsg-6 successful 2019-05-07T12:21:56Z
 tasksel 3.52 skipped 2019-04-06T09:03:05Z
 tbb 2018~U6-4 successful 2019-03-07T04:34:02Z
 tcl8.5 8.5.19-4 successful 2019-03-07T04:36:59Z
@@ -4559,7 +4559,7 @@ uvccapture 0.5-5 successful 2019-03-07T09:40:06Z
 uw-imap 2007f~dfsg-6 attempted 2019-03-11T15:44:04Z
 v4l2loopback 0.12.1-1 skipped 2019-03-07T09:41:22Z
 v4l2ucp 2.0.2-4 attempted 2019-03-07T09:42:16Z
-v4l-utils 1.16.3-2 successful 2019-04-20T09:07:18Z
+v4l-utils 1.16.6-1 successful 2019-05-07T12:25:25Z
 vacation 3.3.1 successful 2019-03-07T09:47:28Z
 vala 0.42.5-1 given-back 2019-03-07T09:47:52Z
 valgrind 3.14.0-3 successful 2019-03-07T09:52:27Z
@@ -4632,7 +4632,7 @@ warmux 11.04.1+repack2-4 successful 2019-03-07T11:12:06Z
 warzone2100 3.2.1-3 attempted 2019-03-07T11:14:34Z
 watchdog 5.15-2 successful 2019-03-07T11:15:15Z
 wavemon 0.8.2-1 successful 2019-03-07T11:16:01Z
-wavpack 5.1.0-5 successful 2019-03-07T11:16:50Z
+wavpack 5.1.0-6 successful 2019-05-07T12:26:34Z
 wayland 1.16.0-1 successful 2019-03-07T11:17:46Z
 wayland-protocols 1.17-1 skipped 2019-03-07T11:18:13Z
 wbar 2.3.4-9 successful 2019-03-07T11:19:32Z
@@ -4659,8 +4659,8 @@ wide-dhcpv6 20080615-22 given-back 2019-03-07T11:45:15Z
 wildmidi 0.4.3-1 successful 2019-03-07T11:46:34Z
 wiliki 0.6.2-1 skipped 2019-03-07T11:46:54Z
 wily 0.13.41-7.3 attempted 2019-03-07T11:47:33Z
-wine 4.0-1 given-back 2019-03-07T11:47:39Z
-wine-development 4.2-2 given-back 2019-03-07T11:48:26Z
+wine 4.0-2 given-back 2019-05-07T12:26:58Z
+wine-development 4.2-4 given-back 2019-05-07T12:27:44Z
 winff 1.5.5-6 given-back 2019-03-07T11:49:12Z
 wing 0.7-31 attempted 2019-03-07T11:50:13Z
 wipe 0.24-4 successful 2019-03-07T11:50:34Z
@@ -4690,7 +4690,7 @@ wnn6-sdk 1.0.0-18 attempted 2019-03-07T12:08:25Z
 wordplay 7.22-20 successful 2019-03-30T09:32:26Z
 worker 3.15.4-1 successful 2019-03-07T12:11:29Z
 worklog 2.0-1 attempted 2019-03-07T12:12:06Z
-wpa 2.7+git20190128+0c1e29f-4 attempted 2019-04-13T09:36:51Z
+wpa 2.7+git20190128+0c1e29f-5 attempted 2019-05-07T12:31:02Z
 wput 0.6.2+git20130413-8 successful 2019-03-07T12:14:20Z
 w-scan 20170107-2 successful 2019-03-07T12:15:04Z
 wspanish 1.0.28 skipped 2019-03-07T12:15:28Z
@@ -4974,7 +4974,7 @@ yeahconsole 0.3.4-5 successful 2019-03-07T16:23:10Z
 yelp 3.31.90-1 attempted 2019-03-07T16:25:10Z
 yelp-xsl 3.32.1-1 skipped 2019-03-23T09:36:01Z
 ykclient 2.15-2 attempted 2019-03-07T16:26:25Z
-youtube-dl 2019.01.17-1 skipped 2019-03-07T16:26:32Z
+youtube-dl 2019.01.17-1.1 skipped 2019-05-07T12:31:15Z
 ytalk 3.3.0-9 successful 2019-03-07T16:27:30Z
 yubikey-personalization 1.19.3-2 successful 2019-03-11T16:11:44Z
 yubikey-personalization-gui 3.1.24-1 attempted 2019-03-07T16:29:18Z
