@@ -29,7 +29,7 @@ import (
 )
 
 const (
-	sbuildLog            = "https://raw.githubusercontent.com/dothanhtrung/build-log/master/"
+	sbuildLog            = "https://raw.githubusercontent.com/tswcos/build-log/master/"
 	debian_cross_patches = "https://github.com/meta-debian/debian-cross-patches/tree/master/"
 	white                = "#ecf0f1"
 	green                = "#2ecc71"

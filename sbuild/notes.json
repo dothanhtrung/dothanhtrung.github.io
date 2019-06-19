@@ -130,6 +130,9 @@
     "bugs": ["900740"],
     "submitted": true
   },
+  "pciutils": {
+    "remark": "Fail if build parallel"
+  },
   "socket": {
     "bugs": ["922373"],
     "submitted": true
