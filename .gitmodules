@@ -1,3 +1,0 @@
-[submodule "sbuild/debian-cross-patches"]
-	path = sbuild/debian-cross-patches
-	url = https://github.com/meta-debian/debian-cross-patches
